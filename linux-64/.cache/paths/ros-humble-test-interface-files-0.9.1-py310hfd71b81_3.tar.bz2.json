@@ -1,0 +1,199 @@
+{
+  "paths": [
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/test_interface_files",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/test_interface_files",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/test_interface_files",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/test_interface_files/action/Fibonacci.action",
+      "path_type": "hardlink",
+      "sha256": "d341e546014a0292d7858aee504fbbfe1abfaefc37663e49a57bc375dc0ebe1e",
+      "size_in_bytes": 100
+    },
+    {
+      "_path": "share/test_interface_files/cmake/test_interface_files-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "f3ce6743d2ee6735a051e22f7dbe0c4b8ddf67ca01c4726913ac0caa761c1942",
+      "size_in_bytes": 1901
+    },
+    {
+      "_path": "share/test_interface_files/cmake/test_interface_filesConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "240f6b4a7d60188cd42aec4f0b4b9500fd33f6b47c4197b1a5b40352c65e5751",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/test_interface_files/cmake/test_interface_filesConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "c80a8636e3b789404b4083b202c6bb11bc8cd73aa58c99529df3103afcfcf969",
+      "size_in_bytes": 1418
+    },
+    {
+      "_path": "share/test_interface_files/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/test_interface_files/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/test_interface_files/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/test_interface_files/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/test_interface_files/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/test_interface_files/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "1591fb4aa5beb7e6e8abe97fa538ca7bcc65519b8f4a601ffb0eca9ae0bffaa5",
+      "size_in_bytes": 121
+    },
+    {
+      "_path": "share/test_interface_files/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-test-interface-files-0_1697268736021/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "58dbd532c66e2ff1a6d34d8d01d18530a8785207a7f92a27c10507225a31c04c",
+      "size_in_bytes": 5245
+    },
+    {
+      "_path": "share/test_interface_files/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/test_interface_files/msg/Arrays.msg",
+      "path_type": "hardlink",
+      "sha256": "6213099c3e3516d1c52c31c0f247dbcd569c4747a4fe239a24cb90864495b15e",
+      "size_in_bytes": 1271
+    },
+    {
+      "_path": "share/test_interface_files/msg/BasicTypes.msg",
+      "path_type": "hardlink",
+      "sha256": "261c5c8a3e087941e5d135c4da1ab435cf11e612dcfbdfcde16b94be0f0933c7",
+      "size_in_bytes": 240
+    },
+    {
+      "_path": "share/test_interface_files/msg/BoundedPlainSequences.msg",
+      "path_type": "hardlink",
+      "sha256": "ceed235575c43c923489d51ecbc92f2f83e02004c2a9f6a6f5f3a40645948a38",
+      "size_in_bytes": 1259
+    },
+    {
+      "_path": "share/test_interface_files/msg/BoundedSequences.msg",
+      "path_type": "hardlink",
+      "sha256": "3806afa38d0326eecc49c3a7cf9e1911d6dea3ab0f699ddfb24a8b89f53e89de",
+      "size_in_bytes": 1346
+    },
+    {
+      "_path": "share/test_interface_files/msg/Constants.msg",
+      "path_type": "hardlink",
+      "sha256": "d953062cbef94126cb43477a394ddb86a692f9f1272af0111885e3ffe3804b32",
+      "size_in_bytes": 315
+    },
+    {
+      "_path": "share/test_interface_files/msg/Defaults.msg",
+      "path_type": "hardlink",
+      "sha256": "6e8f564148736535a3b7ec0654640b5902ebeba265b9b687652fc663d1b4e8e0",
+      "size_in_bytes": 315
+    },
+    {
+      "_path": "share/test_interface_files/msg/Empty.msg",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/test_interface_files/msg/MultiNested.msg",
+      "path_type": "hardlink",
+      "sha256": "6ca1dc2ea7541d0dbc32564da3dc5d665a6f039be45e69c2c02f54d80cc24684",
+      "size_in_bytes": 484
+    },
+    {
+      "_path": "share/test_interface_files/msg/Nested.msg",
+      "path_type": "hardlink",
+      "sha256": "2e2f065e9c62df54183f0626202c71cfdd9c3d2f16c685eefe2409cedfa064ab",
+      "size_in_bytes": 29
+    },
+    {
+      "_path": "share/test_interface_files/msg/Strings.msg",
+      "path_type": "hardlink",
+      "sha256": "76cdf6371e9d08fdb0d9599ae6b09952ce5be4c4159acb9f9f824dd78c015b09",
+      "size_in_bytes": 591
+    },
+    {
+      "_path": "share/test_interface_files/msg/UnboundedSequences.msg",
+      "path_type": "hardlink",
+      "sha256": "bc44a840e40f38d7d006511ff0ce951cfbf13f44ec8cb4c403cd633e5e624635",
+      "size_in_bytes": 1255
+    },
+    {
+      "_path": "share/test_interface_files/msg/WStrings.msg",
+      "path_type": "hardlink",
+      "sha256": "654b938922545987f83f05b70077851ea515e40bfcd89dc393e7cdc1fc75b5c9",
+      "size_in_bytes": 415
+    },
+    {
+      "_path": "share/test_interface_files/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "fc904272862864c306744a1b5830408baf2495a55c1fa1aaec81a4447a2de033",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "share/test_interface_files/package.xml",
+      "path_type": "hardlink",
+      "sha256": "e9175da34b083ae75d94e7ea54a16114ff19249af9f920d4075ae9a13549e47d",
+      "size_in_bytes": 788
+    },
+    {
+      "_path": "share/test_interface_files/srv/Arrays.srv",
+      "path_type": "hardlink",
+      "sha256": "084372ef624f37299eb15cb701fff2ac4c433e0e29b2fd7eec20d57c1005eaae",
+      "size_in_bytes": 2282
+    },
+    {
+      "_path": "share/test_interface_files/srv/BasicTypes.srv",
+      "path_type": "hardlink",
+      "sha256": "1b0eabcf8f7ae71deef712e383bed704004137936dbe518b66fa31622dc7dc31",
+      "size_in_bytes": 524
+    },
+    {
+      "_path": "share/test_interface_files/srv/Empty.srv",
+      "path_type": "hardlink",
+      "sha256": "f52d711103d50a437830c6fbcd04fb4bab49a0f82f6d26d1c791c6e8488dd090",
+      "size_in_bytes": 4
+    }
+  ],
+  "paths_version": 1
+}

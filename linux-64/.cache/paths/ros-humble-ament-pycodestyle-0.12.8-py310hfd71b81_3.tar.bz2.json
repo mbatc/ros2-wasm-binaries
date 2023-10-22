@@ -1,0 +1,115 @@
+{
+  "paths": [
+    {
+      "_path": "bin/ament_pycodestyle",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-pycodestyle-0_1697267017919/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "690cfbdca91b41e179d3f5198b56c21ebda9b94e20555a2bdc670cda3dee4c1c",
+      "size_in_bytes": 504
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "e14dcd67066ea0750b850c489306a23f66c674f6efe0f27c14b91aa388f5f7d4",
+      "size_in_bytes": 773
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "f79ff5a9a41603f23058e1f8908a13f96308c463173e85f27fdee4fb04f997fd",
+      "size_in_bytes": 1456
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "ee2f359703476d65e3b87b21e6502d763626ce3ab7ff9e11cd38d71e2eaf64da",
+      "size_in_bytes": 177
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "b22d2a96e2ede5d69e6d499429e8709d8f0edb50e771d6843f4bd1cd9f487cca",
+      "size_in_bytes": 66
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "05e8c8ea3616f2d35f24e78ba6af34e2d63ee16e30976fe323c839dbe324a913",
+      "size_in_bytes": 18
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "322d6d15a46a293a074a3f8de902af9c756405d775fd8ba44a15f506726170f2",
+      "size_in_bytes": 410
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "1ec6da54c7ee3c2659967428d503c32d6084cf193c2c487a95816696c2a2a493",
+      "size_in_bytes": 155
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle/__pycache__/main.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "a4efd129a3d4a8297c9e1d10a7b6c31b7f09a921a8a50ebbcd01bee1dd465a60",
+      "size_in_bytes": 5162
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle/__pycache__/main.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "7b01555708f8458e49837f1f7d070bff0ebcb10cce9985bacde55544ece18e57",
+      "size_in_bytes": 8070
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle/configuration/ament_pycodestyle.ini",
+      "path_type": "hardlink",
+      "sha256": "404ced264e294b27f932cb8a5ee345ea4d872326a3498b4d8b81abe70613f8cb",
+      "size_in_bytes": 47
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pycodestyle/main.py",
+      "path_type": "hardlink",
+      "sha256": "a5570c40457211dd3617f5fba70a3533eef80bfade2341f0e831955eab2863e8",
+      "size_in_bytes": 6526
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_pycodestyle",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_pycodestyle/package.xml",
+      "path_type": "hardlink",
+      "sha256": "4cdec711ad5a330d9b4ca683b64f3fc74e1f811214f2cab76577aec5ac47b65e",
+      "size_in_bytes": 821
+    }
+  ],
+  "paths_version": 1
+}

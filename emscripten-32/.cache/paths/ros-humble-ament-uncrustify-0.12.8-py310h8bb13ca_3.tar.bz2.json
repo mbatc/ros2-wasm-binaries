@@ -1,0 +1,103 @@
+{
+  "paths": [
+    {
+      "_path": "bin/ament_uncrustify",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-uncrustify-0_1697024441805/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+      "sha256": "1f1b58e5980c98bb46700a54cf1c0724706b50b398e8962f6eb6437847219c2d",
+      "size_in_bytes": 503
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "07907892ebef9139064d04f7e97625e099f5a1cccaaf106d187a0721e634edec",
+      "size_in_bytes": 768
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "39319496b51913eb566a5ec71a3ffcce8b987e6f51d170ab218dc2ba45c51987",
+      "size_in_bytes": 1445
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "48b65a09a557b0efb9932dc7a702c6933ca52c7cd12ef20fad32797496d7f8ab",
+      "size_in_bytes": 175
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "9d3252802607e693d8809c877dcf393f991fb1e5bd195f63c71e0eb0b480c477",
+      "size_in_bytes": 64
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "e4402921d1c85c551fb8f7ef6f04b3c6a7b9fcb6749a2e8bc164cad3bc4c0423",
+      "size_in_bytes": 17
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "189d74c1e2568ecc50e52a5dd6f3c963fcbddf35d40cc76df59d62e73b5585b8",
+      "size_in_bytes": 150
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify/__pycache__/main.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "718a616bb8311ca93ac8ac9fb41a8561b3d25d911b9c27753ac2cca897b60b01",
+      "size_in_bytes": 10461
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify/configuration/ament_code_style.cfg",
+      "path_type": "hardlink",
+      "sha256": "31dbf1c3d989ca1aa0f1147ae8e50c5c40ebb35db5154c80dc50c08e28d7103c",
+      "size_in_bytes": 102338
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_uncrustify/main.py",
+      "path_type": "hardlink",
+      "sha256": "2cfb7a4730ea23dcc7124586c917096a09fb31c6d367fc7fb840bbff66c68c67",
+      "size_in_bytes": 15577
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_uncrustify",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_uncrustify/package.xml",
+      "path_type": "hardlink",
+      "sha256": "be1eced3e966293bbcf75c2b4caab777bc7ee471fc7af49ac6ce2592146f8807",
+      "size_in_bytes": 1043
+    }
+  ],
+  "paths_version": 1
+}

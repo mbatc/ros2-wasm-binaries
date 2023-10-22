@@ -1,0 +1,145 @@
+{
+  "paths": [
+    {
+      "_path": "include/rcl_logging_interface/rcl_logging_interface/rcl_logging_interface.h",
+      "path_type": "hardlink",
+      "sha256": "8b28a0cd92081903ea56e25eb30c665f07150f3b9c58a81badef95f062105836",
+      "size_in_bytes": 4775
+    },
+    {
+      "_path": "include/rcl_logging_interface/rcl_logging_interface/visibility_control.h",
+      "path_type": "hardlink",
+      "sha256": "8b305a62d36470c16d4eda3825041eb937475200a8f1200ec035d6cfd458e9ce",
+      "size_in_bytes": 2078
+    },
+    {
+      "_path": "lib/librcl_logging_interface.a",
+      "path_type": "hardlink",
+      "sha256": "a0a7fa2189cc785b73d55f3d388bfb3d01c4add5c4b62e5d97cdf102ba4567a4",
+      "size_in_bytes": 3010
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/rcl_logging_interface",
+      "path_type": "hardlink",
+      "sha256": "feb17ff566069028882d4ae2b905bacd16628ed2861f53058044bc152c3b3495",
+      "size_in_bytes": 51
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/rcl_logging_interface",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/rcl_logging_interface",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/rcl_logging_interface/cmake/ament_cmake_export_dependencies-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "9b71db8270b7dce415e108af9a80eae56a72408ea4fbd9a895ad81f720d5736a",
+      "size_in_bytes": 4069
+    },
+    {
+      "_path": "share/rcl_logging_interface/cmake/ament_cmake_export_include_directories-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "fc0f634021d45fad6a03754c713a8d1a7f7cadf3cbca9a8a3bf4a8f17dc7eb21",
+      "size_in_bytes": 835
+    },
+    {
+      "_path": "share/rcl_logging_interface/cmake/ament_cmake_export_targets-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "c2ee68d11ae28cb420886ab767522facc9337470758f7dc9f1db06fbbc8979b4",
+      "size_in_bytes": 1001
+    },
+    {
+      "_path": "share/rcl_logging_interface/cmake/rcl_logging_interfaceConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "6dd03f05c31a8a9cf1d74b19a772a1e30f90791b829cbc8bb094acfba16a1c61",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/rcl_logging_interface/cmake/rcl_logging_interfaceConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "a3a732c71327535b0e46f03459e646a11f6366f059aa59063845cdd35790da1c",
+      "size_in_bytes": 1534
+    },
+    {
+      "_path": "share/rcl_logging_interface/cmake/rcl_logging_interfaceExport-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "8b296da0ab933c7ed296b053accbd9137806e63858e8288660178a314ce9471b",
+      "size_in_bytes": 1021
+    },
+    {
+      "_path": "share/rcl_logging_interface/cmake/rcl_logging_interfaceExport.cmake",
+      "path_type": "hardlink",
+      "sha256": "d623f430107985dfdb75a78a2e91387069b7a0a77f8a6491bacb5b0b7275954e",
+      "size_in_bytes": 4233
+    },
+    {
+      "_path": "share/rcl_logging_interface/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rcl_logging_interface/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/rcl_logging_interface/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rcl_logging_interface/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/rcl_logging_interface/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/rcl_logging_interface/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "d69bc12a3fd45a3377196968f3042f1188d6ccc04e0cf0f52849bfac7f460b70",
+      "size_in_bytes": 123
+    },
+    {
+      "_path": "share/rcl_logging_interface/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rcl-logging-interface-0_1697256476339/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "ee39c0b1785607f0cb2cd72336fdc0ffd9e33a5858ad015fc1544f7f6138a265",
+      "size_in_bytes": 5247
+    },
+    {
+      "_path": "share/rcl_logging_interface/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/rcl_logging_interface/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "63981895894fcf5faad2aca75f286516b2a4ec3ee53c71d97586b6dc4bde23c7",
+      "size_in_bytes": 204
+    },
+    {
+      "_path": "share/rcl_logging_interface/package.xml",
+      "path_type": "hardlink",
+      "sha256": "4a8b1e8f8a6f9bb816368e3a6babddf2e2288de23c329c6f32c3f3a5ef15f613",
+      "size_in_bytes": 870
+    }
+  ],
+  "paths_version": 1
+}

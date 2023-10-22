@@ -1,0 +1,169 @@
+{
+  "paths": [
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/get_package_prefix.hpp",
+      "path_type": "hardlink",
+      "sha256": "2ed037d6421c5a2b60bc3581df8a0b5c8fb6b38c439a142038f904c5f9fcaae7",
+      "size_in_bytes": 1770
+    },
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/get_package_share_directory.hpp",
+      "path_type": "hardlink",
+      "sha256": "6530324b8a407836bb13ec98eee17494187c90c6b13a19acbe3da6b41c3053d9",
+      "size_in_bytes": 1261
+    },
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/get_packages_with_prefixes.hpp",
+      "path_type": "hardlink",
+      "sha256": "d0afd3748369dedd107e0644d751f9888dad84d4578830a300c2e608b0dc72f4",
+      "size_in_bytes": 1088
+    },
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/get_resource.hpp",
+      "path_type": "hardlink",
+      "sha256": "1b379e0af2da220b4f1012a941a72d76d2598b01264803c8b69e29ccb5f9425f",
+      "size_in_bytes": 2488
+    },
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/get_resources.hpp",
+      "path_type": "hardlink",
+      "sha256": "539832a5339ccc0ee70c5a891b4d83e4109c13d4165629c395892a316f4b68cf",
+      "size_in_bytes": 1245
+    },
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/get_search_paths.hpp",
+      "path_type": "hardlink",
+      "sha256": "b0375d80fb3543d6678089fd4ca20624b177ff9d41b332a4a7ec8acc3e5eb1bc",
+      "size_in_bytes": 1184
+    },
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/has_resource.hpp",
+      "path_type": "hardlink",
+      "sha256": "7a65b0a40cbab2856a707cbd4fe3a45c9498d63e0473c7e0fcfe36914c2af8de",
+      "size_in_bytes": 1399
+    },
+    {
+      "_path": "include/ament_index_cpp/ament_index_cpp/visibility_control.h",
+      "path_type": "hardlink",
+      "sha256": "1f85f0d32ff1c06c0578902abf8418d4cb054273a4abd20e4f1b300d514763cb",
+      "size_in_bytes": 1841
+    },
+    {
+      "_path": "lib/libament_index_cpp.so",
+      "path_type": "hardlink",
+      "sha256": "5f61cabe0fdefe2326b36a39f537cf456a1944e7ceda782920931971285fe17e",
+      "size_in_bytes": 14920
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/ament_index_cpp",
+      "path_type": "hardlink",
+      "sha256": "6c735080019338f18410f5b81ce59efebefe7a046492c9a93efd64f1677de46f",
+      "size_in_bytes": 51
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_index_cpp",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/ament_index_cpp",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/ament_index_cpp/cmake/ament_cmake_export_targets-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "0ea3191e0114d61eb1b4bff6383d2eaaa9e2f92448fd7e5084a3fcaf2e81a234",
+      "size_in_bytes": 990
+    },
+    {
+      "_path": "share/ament_index_cpp/cmake/ament_index_cppConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "1627969854165aa48f819196448f6359ec774a934c9c90af798aab9509ebdcf7",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/ament_index_cpp/cmake/ament_index_cppConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "c023f617ecc5dd07ed29dd578eb853f951638919cba45612f2819d79919d1f8f",
+      "size_in_bytes": 1359
+    },
+    {
+      "_path": "share/ament_index_cpp/cmake/export_ament_index_cppExport-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "6beadfc5e4decece782d91a76532f2eee2af08b2775e9db81748cf6fd10c5411",
+      "size_in_bytes": 953
+    },
+    {
+      "_path": "share/ament_index_cpp/cmake/export_ament_index_cppExport.cmake",
+      "path_type": "hardlink",
+      "sha256": "1adbb6f54058bd374cf0cd50f92b1e00f7a6f88dbe101b1d2734b74666cb96a0",
+      "size_in_bytes": 4001
+    },
+    {
+      "_path": "share/ament_index_cpp/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_index_cpp/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/ament_index_cpp/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_index_cpp/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/ament_index_cpp/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/ament_index_cpp/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "f2ec430e16b0c58e40c9719577c9d9ba04e9cb4b128ea8c1ad651c3e01b06e86",
+      "size_in_bytes": 111
+    },
+    {
+      "_path": "share/ament_index_cpp/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-index-cpp-0_1697024441805/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "1554293bb3f156027186be130f68cedc4a128b86f8696151941fa61d813844ab",
+      "size_in_bytes": 5235
+    },
+    {
+      "_path": "share/ament_index_cpp/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/ament_index_cpp/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "b91570aff7270d458e265b65426d46e692f2ace8864f3e3dd9b76d14420ca53d",
+      "size_in_bytes": 180
+    },
+    {
+      "_path": "share/ament_index_cpp/package.xml",
+      "path_type": "hardlink",
+      "sha256": "34a4355edd9878c506836c5a276a012f59b42961345e3c9e6f65b6c12c18e8bb",
+      "size_in_bytes": 744
+    }
+  ],
+  "paths_version": 1
+}

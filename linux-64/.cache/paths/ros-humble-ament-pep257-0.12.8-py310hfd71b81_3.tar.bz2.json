@@ -1,0 +1,133 @@
+{
+  "paths": [
+    {
+      "_path": "bin/ament_pep257",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-pep257-0_1697268392994/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+      "sha256": "1d24926560db242f4d2ac43ab4c7491d9ffeeae2825a3f3f984c6694bd8cc4a9",
+      "size_in_bytes": 499
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "7d023189b8cc20ac25efa4a6a61a097a6cdeb165cbe86d96d888abc52fa0bb5d",
+      "size_in_bytes": 769
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "0f056af28b03edb4516e7889fed92c4c83baf68de106d6440f002119da0c24b4",
+      "size_in_bytes": 1510
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "d076acfbaa1f9b521e1288ce0f0dd41ab61ee77cd412365bfc5d49685e2e2e32",
+      "size_in_bytes": 167
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "b1ffcd654d6db7d2f43f1815e3b7bdeef3d5e9a65861ee680e7f45b141a2050a",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "9ecb76721ef5af4c97d3e5ad9fcbcf7cfdcd90de6b3f45d7f1a4ab1837710cc6",
+      "size_in_bytes": 13
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257-0.12.8.dist-info/zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "8ae209950bf1b89ecbb677cf94142452f9704c99e9203b0c8cbdfcd9b0c71d75",
+      "size_in_bytes": 405
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a01b394d75fd0bafbad98ae893498388166266d5053bdc09de6c8c08f1c084bd",
+      "size_in_bytes": 150
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/__pycache__/main.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "448168ee916db1ff3e18551687d6b286fb31609ed9234d2ae5d309d87fcc507c",
+      "size_in_bytes": 6740
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/__pycache__/main.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "881410c1cdf6ee7b1b0a85cd88be9ac491491990797ae560582cd0b5f69f4ea6",
+      "size_in_bytes": 11100
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/__pycache__/pytest_marker.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "f22a9634873771301cdaf1c301b88bba1560b57837417ef4b99ec25a2b5f11f6",
+      "size_in_bytes": 614
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/__pycache__/pytest_marker.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "b80edabc3a86aa80ee1e0cc9159a29d8a2f86f9eee1efe30adcdb4aa4ed0510c",
+      "size_in_bytes": 401
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/main.py",
+      "path_type": "hardlink",
+      "sha256": "a99a4b24130f26b078471f9f61e2caf4286e89caa7cb01b552cd47002f2f5090",
+      "size_in_bytes": 9243
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_pep257/pytest_marker.py",
+      "path_type": "hardlink",
+      "sha256": "fee57aa2fcf7d6eb33bc313423a356620f24c06744e3ef8909cd0f028d14cfc4",
+      "size_in_bytes": 736
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_pep257",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_pep257/package.xml",
+      "path_type": "hardlink",
+      "sha256": "aa596f37d7d2c8bdc3769f883d91df8df02b392ebdd3a0b60c238c61f8769d24",
+      "size_in_bytes": 971
+    }
+  ],
+  "paths_version": 1
+}

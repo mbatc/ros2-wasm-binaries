@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.10/site-packages/launch_yaml-1.0.4-py3.10.egg",
+      "path_type": "hardlink",
+      "sha256": "95be4599b2f57f10e1112ff9216da0c9462b2e8a58d84637f885cd1848c893e5",
+      "size_in_bytes": 12669
+    },
+    {
+      "_path": "lib/python3.10/site-packages/launch_yaml.pth",
+      "path_type": "hardlink",
+      "sha256": "ed28f6b3aab491365d64ca2597f92c6a9cf538099acfb900379c1f78df22f262",
+      "size_in_bytes": 31
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.10/site-packages/launch_xml-1.0.4-py3.10.egg",
+      "path_type": "hardlink",
+      "sha256": "e6ef2c16bdb81e43cd7338ff3909327531597ac50153fe5d7d9e5d36e5d2f367",
+      "size_in_bytes": 12075
+    },
+    {
+      "_path": "lib/python3.10/site-packages/launch_xml.pth",
+      "path_type": "hardlink",
+      "sha256": "a38828dc55238a2b053107ee936afffcd5a9a5d4e97ff109d53a0622ee1dbc1b",
+      "size_in_bytes": 30
+    }
+  ],
+  "paths_version": 1
+}

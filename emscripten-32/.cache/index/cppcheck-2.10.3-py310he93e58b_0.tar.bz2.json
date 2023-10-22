@@ -1,0 +1,1 @@
+{"build": "py310he93e58b_0", "build_number": 0, "depends": ["emscripten-abi 3.1.27.*", "pcre", "pygments", "python"], "name": "cppcheck", "subdir": "emscripten-32", "timestamp": 1697021867106, "version": "2.10.3", "size": 1371783, "md5": "e889a9858d5427b97e5f083d111c0611", "sha256": "8ba1040ee4b4b47f99e61313738ec0812d3987453afb537a566d0a1184f028cd"}

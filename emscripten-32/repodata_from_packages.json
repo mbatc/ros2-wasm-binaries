@@ -1,0 +1,2479 @@
+{
+  "info": {
+    "subdir": "emscripten-32"
+  },
+  "packages": {
+    "benchmark-1.8.2-h9e12842_0.tar.bz2": {
+      "build": "h9e12842_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "532b02316b9ee5dbc7ba2031e61d3093",
+      "name": "benchmark",
+      "sha256": "d4a21a406b83253558f6acf25298fc3e40e7ae0a877b246ec66fde32998bcd63",
+      "size": 164333,
+      "subdir": "emscripten-32",
+      "timestamp": 1697022246757,
+      "version": "1.8.2"
+    },
+    "console_bridge-1.0.2-h722964b_0.tar.bz2": {
+      "build": "h722964b_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "6c184ada7776bc14eb57be0c44418899",
+      "name": "console_bridge",
+      "sha256": "5d4c71000c741239a843d883db66bad121048973623b4ab209ccc9d9e1f217df",
+      "size": 15821,
+      "subdir": "emscripten-32",
+      "timestamp": 1697029373794,
+      "version": "1.0.2"
+    },
+    "cppcheck-2.10.3-py310he93e58b_0.tar.bz2": {
+      "build": "py310he93e58b_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "pcre",
+        "pygments",
+        "python"
+      ],
+      "md5": "e889a9858d5427b97e5f083d111c0611",
+      "name": "cppcheck",
+      "sha256": "8ba1040ee4b4b47f99e61313738ec0812d3987453afb537a566d0a1184f028cd",
+      "size": 1371783,
+      "subdir": "emscripten-32",
+      "timestamp": 1697021867106,
+      "version": "2.10.3"
+    },
+    "dynmsg-1.0-py310h8bb13ca_0.tar.bz2": {
+      "build": "py310h8bb13ca_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-introspection-c",
+        "ros-humble-rosidl-typesupport-introspection-cpp",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "5088f4f745de56ee95ab4dcd6d07e760",
+      "name": "dynmsg",
+      "sha256": "23d96064f07aa8a1bf7315312889b0e4372922864a7bac7bf47a115595364f2a",
+      "size": 88541,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257735731,
+      "version": "1.0"
+    },
+    "gmock-1.14.0-h51e9701_0.tar.bz2": {
+      "build": "h51e9701_0",
+      "build_number": 0,
+      "depends": [
+        "gtest"
+      ],
+      "md5": "0b6c69bbf947e4a4cec1fa5f4361bea0",
+      "name": "gmock",
+      "sha256": "e87511f3357cc78f7b2cd83393871d12c0773eb0106579e907b64be2b280fce7",
+      "size": 4313,
+      "subdir": "emscripten-32",
+      "timestamp": 1697021928294,
+      "version": "1.14.0"
+    },
+    "gtest-1.14.0-h722964b_0.tar.bz2": {
+      "build": "h722964b_0",
+      "build_number": 0,
+      "constrains": [
+        "gmock 1.14.0*"
+      ],
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "35df3c31a5dab1555b2d7f76fdfc62c2",
+      "name": "gtest",
+      "sha256": "89606c0ea27eb85dff83039716b1fe74ebd50a062653376cdd42e9aab6deede2",
+      "size": 385490,
+      "subdir": "emscripten-32",
+      "timestamp": 1697021926337,
+      "version": "1.14.0"
+    },
+    "pcre-8.45-h9e12842_0.tar.bz2": {
+      "build": "h9e12842_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "3f88df72732ee44c9044f2b401a8b858",
+      "name": "pcre",
+      "sha256": "67dcd9c82df102fd01bfcdd957b9ab08822a2b47de8a9902aa11a54faf6982f6",
+      "size": 516495,
+      "subdir": "emscripten-32",
+      "timestamp": 1697021621340,
+      "version": "8.45"
+    },
+    "ros-humble-action-msgs-1.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros-humble-unique-identifier-msgs",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "3a0141825fd98c2b6948facbe42ad015",
+      "name": "ros-humble-action-msgs",
+      "sha256": "1da145b21c988a05814550e283a02200935c876cb64efd5093bc891319a03972",
+      "size": 191075,
+      "subdir": "emscripten-32",
+      "timestamp": 1697460780669,
+      "version": "1.2.1"
+    },
+    "ros-humble-ament-cmake-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-export-definitions",
+        "ros-humble-ament-cmake-export-dependencies",
+        "ros-humble-ament-cmake-export-include-directories",
+        "ros-humble-ament-cmake-export-interfaces",
+        "ros-humble-ament-cmake-export-libraries",
+        "ros-humble-ament-cmake-export-link-flags",
+        "ros-humble-ament-cmake-export-targets",
+        "ros-humble-ament-cmake-gen-version-h",
+        "ros-humble-ament-cmake-libraries",
+        "ros-humble-ament-cmake-python",
+        "ros-humble-ament-cmake-target-dependencies",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-cmake-version",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "c7f42b1f9fc0d95600cb1a9c5eac4115",
+      "name": "ros-humble-ament-cmake",
+      "sha256": "7b1b2896060f2f8f85efbd3e53bb14b69d575ad9c5a6e6c67dd20f62df7f52b3",
+      "size": 12565,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026452363,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-copyright-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-copyright",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "cb748d7a37c1897c74b43e23cbb13e9e",
+      "name": "ros-humble-ament-cmake-copyright",
+      "sha256": "c1e015de97e040b803a0c2acfdd9300cd2dd0fcad0ed6f1b6bb50738b1585ecc",
+      "size": 12738,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027183931,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cmake-core-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "catkin_pkg",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-package",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "def39015208336355c944644f76acb8b",
+      "name": "ros-humble-ament-cmake-core",
+      "sha256": "0a8d8e9d8b7bfcd639e8b1dd9de94982bdcfaf9c08bad839be557054f69f31ae",
+      "size": 33004,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024572239,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-cppcheck-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-cppcheck",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "075806d7e876ff93e9d9a99e529319fe",
+      "name": "ros-humble-ament-cmake-cppcheck",
+      "sha256": "7e8fab16d517956103dc39d660c74d99a79a4fa918a6ec49ed6ead8455d5c909",
+      "size": 13767,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027301993,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cmake-cpplint-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-cpplint",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "9d55b45f1696a59ed107c537c2b67130",
+      "name": "ros-humble-ament-cmake-cpplint",
+      "sha256": "4ec31acb5933b674c8c03bd3432bab8c7b4880e25d5e587d0af66941b30de6a9",
+      "size": 13082,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027367631,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cmake-export-definitions-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "c66b9274408c53369aa720f85566a788",
+      "name": "ros-humble-ament-cmake-export-definitions",
+      "sha256": "4e9d69dd657e34522e7f2a20877a7cf6779a7fad7e9a221ff2e769da78398697",
+      "size": 12569,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024812273,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-export-dependencies-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-libraries",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "f26714365579f387457b713da9ece001",
+      "name": "ros-humble-ament-cmake-export-dependencies",
+      "sha256": "f1d2cc725bdbc22defa28cce54a00936d38321597cd40105e36dc358f90fbb34",
+      "size": 13634,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025703989,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-export-include-directories-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "0fb43518e37f14abcfcf4200d1372b54",
+      "name": "ros-humble-ament-cmake-export-include-directories",
+      "sha256": "807784f4d26a59f85125ea90eb2f40df792cee381002d755e68b1249adeb349e",
+      "size": 12898,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024883886,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-export-interfaces-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-export-libraries",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "f1cf51d7f1821e112316502d706194ed",
+      "name": "ros-humble-ament-cmake-export-interfaces",
+      "sha256": "bbcb070ad3540924efe9d5f927c1f42db1acf0bf71b3aeb791844900aa42d042",
+      "size": 13098,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025762925,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-export-libraries-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "91dfdc8baaf0f3a03d747002dd3970ea",
+      "name": "ros-humble-ament-cmake-export-libraries",
+      "sha256": "d59df4d5fa8a6ada9649f18815738c7cabe0ad5910d7d2df7fdb16a59a5f04eb",
+      "size": 14603,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024948796,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-export-link-flags-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "0f989b3999c816950b60bd1135cdad01",
+      "name": "ros-humble-ament-cmake-export-link-flags",
+      "sha256": "d7d191dda97736fdc64abb2efed41a75a4c3ab498f5ee5ca165316350b1180f3",
+      "size": 12510,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025014687,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-export-targets-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-export-libraries",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "08cb72d317eafeed2dee34e35059f1e3",
+      "name": "ros-humble-ament-cmake-export-targets",
+      "sha256": "28097a2d145149f3f75895358617170e855bb73fab0371e074452ec18793a7af",
+      "size": 13043,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025813434,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-flake8-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-flake8",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "276e8b36d50812af60df5a9399a91bfe",
+      "name": "ros-humble-ament-cmake-flake8",
+      "sha256": "cdb09d36593863690949fb433404fac12d29ffd627ec7c89291cea1e47f3b874",
+      "size": 12955,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027434889,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cmake-gen-version-h-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "e96c0b504855001a1c6099c0f96e815f",
+      "name": "ros-humble-ament-cmake-gen-version-h",
+      "sha256": "5e8b1642be95cfafbdf54dd960ab8e8873e8e73294278b1f4cb8d1ddc84f168e",
+      "size": 14949,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026310785,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-gmock-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "gmock",
+        "python",
+        "ros-humble-ament-cmake-gtest",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-gmock-vendor",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "fefa05325a982a3edc2a93906e42859e",
+      "name": "ros-humble-ament-cmake-gmock",
+      "sha256": "37fc56c85b6e823ef8786c3eef4717f2c635bdd0b7b3cafb6f4bc27ff9445bcc",
+      "size": 14429,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026371939,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-google-benchmark-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-google-benchmark-vendor",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "c60ab93b41b82e34b126255da843d009",
+      "name": "ros-humble-ament-cmake-google-benchmark",
+      "sha256": "8559172b8e15bc6fdca65e2bbc41a00f213169eb0fd4b9451e6b8c1bd0f149b1",
+      "size": 20673,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026020757,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-gtest-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "gtest",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-gtest-vendor",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "9272a386bbf3cdec0478a4ff550df478",
+      "name": "ros-humble-ament-cmake-gtest",
+      "sha256": "6ee5a926045f5c53d863fd108ea804eab42b70bb76f09f8bef37032d9b62ac95",
+      "size": 15013,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026081638,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-include-directories-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "df6a39012842beb8317b20e56517062f",
+      "name": "ros-humble-ament-cmake-include-directories",
+      "sha256": "5d8b51918b0e019af4e83d807425bff59b4d83637ffff44b1607e4965b23214c",
+      "size": 12422,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025076397,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-libraries-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "61dbb13d05e2bbb0dde780b15328ec94",
+      "name": "ros-humble-ament-cmake-libraries",
+      "sha256": "526db54387479bc2be6cd0c4adb87eac3d1c76eaa6bcd8f7d787007313553633",
+      "size": 12836,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025135077,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-lint-cmake-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-lint-cmake",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "066f9801b73162ccdc0a10d827051b26",
+      "name": "ros-humble-ament-cmake-lint-cmake",
+      "sha256": "f7ec2d88171d024cd025c829a3f5b57d07083836d84cb5092f43b54853e8b5e7",
+      "size": 12712,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026613437,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cmake-pep257-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-pep257",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "644a559b58f6239505dd147e61a2cae2",
+      "name": "ros-humble-ament-cmake-pep257",
+      "sha256": "41510a519dde0cb82f0ad2c772b4dfa24657d110d5631a42129ce5461489e473",
+      "size": 12736,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027500769,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cmake-pytest-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "pytest",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "6d329d88ff2cc3ccd6da11506791cd49",
+      "name": "ros-humble-ament-cmake-pytest",
+      "sha256": "ae79dee95aad7a13a045821574ab1728b910b5ce0a6a8407250f946ca9e9a59e",
+      "size": 14438,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026140567,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-python-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "057840635a225221be624671c661d238",
+      "name": "ros-humble-ament-cmake-python",
+      "sha256": "4fad947cb00f1572c085ed29ce018a46eb3bb43e7a6f5e1ab621129cabc22293",
+      "size": 14818,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025193853,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-ros-0.10.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-ament-cmake-gmock",
+        "ros-humble-ament-cmake-gtest",
+        "ros-humble-ament-cmake-pytest",
+        "ros-humble-domain-coordinator",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "8d9a274040b89579c87496c3b89302fb",
+      "name": "ros-humble-ament-cmake-ros",
+      "sha256": "c03972e4b0e4024aa055af38a54a3cb91bbddd29a09e6040077bbaab7ce31312",
+      "size": 15284,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027822854,
+      "version": "0.10.0"
+    },
+    "ros-humble-ament-cmake-target-dependencies-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-include-directories",
+        "ros-humble-ament-cmake-libraries",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "55c74f752b0441ccadee6f90ab5b1e51",
+      "name": "ros-humble-ament-cmake-target-dependencies",
+      "sha256": "0bc0b9943e16d9d891d38648622b42212a68b55203a6c8049593db9e772cecd7",
+      "size": 13966,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025862876,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-test-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "9445ac8c7d47002472f4c008371e2316",
+      "name": "ros-humble-ament-cmake-test",
+      "sha256": "e51fa41128485edbb4d1f708792f9861dcef2a68459000620001171029db06ce",
+      "size": 22906,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025916749,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-uncrustify-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-uncrustify",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "2433175098aa7704b6752c2a36be090a",
+      "name": "ros-humble-ament-cmake-uncrustify",
+      "sha256": "4ecea7ea33b2dd01f8877aeb4c12dc0b0116eaccbfff73c778e523ddb2506cfb",
+      "size": 13178,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027565998,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cmake-version-1.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "19b05bee7d605a3c3eb546fc3ed9ac9c",
+      "name": "ros-humble-ament-cmake-version",
+      "sha256": "66782f47b390cf906b027e02cfedd4ec3dfd6dd970b3435dd4d5a4f391d302ef",
+      "size": 12311,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025254411,
+      "version": "1.3.5"
+    },
+    "ros-humble-ament-cmake-xmllint-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ament-xmllint",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "b316a85817366118b47065c124541e7a",
+      "name": "ros-humble-ament-cmake-xmllint",
+      "sha256": "3d72fbfbcbfaf918c451aa0fb264a7faad4b15387faab9f561fb38550f50e04d",
+      "size": 12807,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027628887,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-copyright-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "importlib-metadata",
+        "python",
+        "ros-humble-ament-lint",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "4cba836c11dfcdda1f25d068253d1e22",
+      "name": "ros-humble-ament-copyright",
+      "sha256": "995553074a918082e0399bb437539bb782c810c99f77f3acade07312e6001b8f",
+      "size": 49231,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026389230,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cppcheck-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "cppcheck",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "3ab005497fdd11131527d9b769423c74",
+      "name": "ros-humble-ament-cppcheck",
+      "sha256": "3a604192f987570768e7cb537faee70946540d0b8a22f8a4b303e72d727ca907",
+      "size": 17308,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025275105,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-cpplint-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "529e4fa6a240f00914aed5374f67cf7e",
+      "name": "ros-humble-ament-cpplint",
+      "sha256": "181cc5f5098541109b243fbe6c5e56c986911f3285659753974b48fd2fed4338",
+      "size": 120921,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026471281,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-flake8-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "flake8",
+        "python",
+        "ros-humble-ament-lint",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "5396440a5303c654e9ebb441cd40939f",
+      "name": "ros-humble-ament-flake8",
+      "sha256": "c239d3f301919b1b56faae64d1be21e74a8a2ce6cc87e0f1d739d993a5f714a2",
+      "size": 16739,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025936343,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-index-cpp-1.4.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "cb6d68289b5e61fea5bc6967921e90fe",
+      "name": "ros-humble-ament-index-cpp",
+      "sha256": "350f672941a633e316b8b2168770c4eb574c261c31ec4627c1fbcaf23c714db6",
+      "size": 24945,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027994372,
+      "version": "1.4.0"
+    },
+    "ros-humble-ament-index-python-1.4.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "2a14cd3a2bcdeca870ce4921c270bf74",
+      "name": "ros-humble-ament-index-python",
+      "sha256": "6097cb06547fdf46fc039c055b54b94cdb3e70cd460b449df70c6fe6619d01e8",
+      "size": 17619,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026488297,
+      "version": "1.4.0"
+    },
+    "ros-humble-ament-lint-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "d630bc3e6af1d4403ab3d5b0c62ae155",
+      "name": "ros-humble-ament-lint",
+      "sha256": "f8789d04e72a1318460aa908b0dff929c350bcae7a5eb0c53655dcabea7857cd",
+      "size": 9349,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025291710,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-lint-auto-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "d2a8878d30df1e620c9a03cc477203d7",
+      "name": "ros-humble-ament-lint-auto",
+      "sha256": "02c8cde45236b16b33953a2cb0c015e512f7bd39a38a685dcc5924ad263bd5db",
+      "size": 12483,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026202201,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-lint-cmake-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "aa1b0d7e14832074f01b90a89e8da265",
+      "name": "ros-humble-ament-lint-cmake",
+      "sha256": "acc6875f985326d128fe24e2ecabd9ce96dd531c5dc6c76f7dba4eca7b9bc8fb",
+      "size": 24594,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026505652,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-lint-common-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-copyright",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-cmake-cppcheck",
+        "ros-humble-ament-cmake-cpplint",
+        "ros-humble-ament-cmake-flake8",
+        "ros-humble-ament-cmake-lint-cmake",
+        "ros-humble-ament-cmake-pep257",
+        "ros-humble-ament-cmake-uncrustify",
+        "ros-humble-ament-cmake-xmllint",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "0a5040e1e23a3acd80e46e090f10272a",
+      "name": "ros-humble-ament-lint-common",
+      "sha256": "bdcd74db3376cfce16f1bea0dafd8574bd2c51c182cf717f86b00545628783a2",
+      "size": 12676,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027709401,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-package-0.14.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "importlib-metadata",
+        "importlib_resources",
+        "python",
+        "ros2-distro-mutex 0.4.* humble",
+        "setuptools"
+      ],
+      "md5": "d3f797101b171063e863579bc7c0796e",
+      "name": "ros-humble-ament-package",
+      "sha256": "d238fc82cddc56edb3381969a380ecaa8c0b36eeb0621b853bb38494197b65d4",
+      "size": 33999,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024514840,
+      "version": "0.14.0"
+    },
+    "ros-humble-ament-pep257-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "pydocstyle",
+        "python",
+        "ros-humble-ament-lint",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "a693f2481e2ac902e9b6331355121816",
+      "name": "ros-humble-ament-pep257",
+      "sha256": "92fdb13c77587a97dbc462611338a490eb169da1d452f60220f8f5f68964cfcc",
+      "size": 15902,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026219950,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-pycodestyle-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "pycodestyle",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "c32fc62c2d8c6cb26422308b0addc1bf",
+      "name": "ros-humble-ament-pycodestyle",
+      "sha256": "23ca692f4f403dc42f884d4b5402531022e0230c1490aac92580363abddbbfe7",
+      "size": 14014,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025308485,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-uncrustify-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros-humble-uncrustify-vendor",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "9dcea86fe1a9fbfb13c99ec3c7b14937",
+      "name": "ros-humble-ament-uncrustify",
+      "sha256": "16d9f0f64212ecfe4fafd868ada01a496f79a23ed5f6c49de514becef138a97f",
+      "size": 36164,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027203474,
+      "version": "0.12.8"
+    },
+    "ros-humble-ament-xmllint-0.12.8-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "libxml2",
+        "python",
+        "ros-humble-ament-lint",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "a49b84baee822bd8d68aa6d0c170b8de",
+      "name": "ros-humble-ament-xmllint",
+      "sha256": "ae46fc4b0ca9fe433e8c1051ed5cb42eae09a4aadbd31588e191054ddeda8f71",
+      "size": 16254,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026529328,
+      "version": "0.12.8"
+    },
+    "ros-humble-builtin-interfaces-1.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "4faf977d2c0066d2455c98678b10739e",
+      "name": "ros-humble-builtin-interfaces",
+      "sha256": "16a23fac6cfbe0ec642cf2f0ae9e3de3798b803eeedb7aad371a66853ff2e0af",
+      "size": 120296,
+      "subdir": "emscripten-32",
+      "timestamp": 1697460644930,
+      "version": "1.2.1"
+    },
+    "ros-humble-class-loader-2.2.0-py310h8df389f_3.tar.bz2": {
+      "build": "py310h8df389f_3",
+      "build_number": 3,
+      "depends": [
+        "console_bridge 1.0.*",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-console-bridge-vendor",
+        "ros-humble-rcpputils",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "7dec58f3c8ea8412c1f06f7394b3972f",
+      "name": "ros-humble-class-loader",
+      "sha256": "a6b3b91de5d4521c304f3a68462c0cf5871176008be4d2b607cdf8b4a85de253",
+      "size": 47628,
+      "subdir": "emscripten-32",
+      "timestamp": 1697256527970,
+      "version": "2.2.0"
+    },
+    "ros-humble-composition-interfaces-1.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcl-interfaces",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "3461cef98aebd07f660c54f7c321fc8a",
+      "name": "ros-humble-composition-interfaces",
+      "sha256": "f038d95804f8f93e78f00336675a24902b6da89a325c447fc9fe6d1d64660181",
+      "size": 219811,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461170017,
+      "version": "1.2.1"
+    },
+    "ros-humble-console-bridge-vendor-1.4.1-py310h8df389f_3.tar.bz2": {
+      "build": "py310h8df389f_3",
+      "build_number": 3,
+      "depends": [
+        "console_bridge 1.0.*",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "8f087e5ac33db8d4ef8b309f69d6c2bb",
+      "name": "ros-humble-console-bridge-vendor",
+      "sha256": "2f942a5e0269d889341219d0d2e969b092751eb0887da7a2c06ca3839aa34b62",
+      "size": 11864,
+      "subdir": "emscripten-32",
+      "timestamp": 1697029779564,
+      "version": "1.4.1"
+    },
+    "ros-humble-domain-coordinator-0.10.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "3e353ba1ac26e798e74e4b2d775a0db8",
+      "name": "ros-humble-domain-coordinator",
+      "sha256": "58cf6e0ca090733aa948cb1304039fe9f479d081d4d458e83b9600f6b7ca105e",
+      "size": 11917,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026546159,
+      "version": "0.10.0"
+    },
+    "ros-humble-example-interfaces-0.9.3-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-action-msgs",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "75479ef963704b1ea96ac291f82102ed",
+      "name": "ros-humble-example-interfaces",
+      "sha256": "dbe386ea89f27a0eebd77a032a7c5f0a243e7e182082a5da3ef36f58e30b13d4",
+      "size": 364404,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461263301,
+      "version": "0.9.3"
+    },
+    "ros-humble-examples-rclcpp-minimal-publisher-0.15.1-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rclcpp",
+        "ros-humble-ros-workspace",
+        "ros-humble-std-msgs",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "fcb8315a89918be9289463c800dba920",
+      "name": "ros-humble-examples-rclcpp-minimal-publisher",
+      "sha256": "5aace39c73f47043cf4d7136f4588a35d50f02e64e2732c5df80ac7b64ec3c03",
+      "size": 50066,
+      "subdir": "emscripten-32",
+      "timestamp": 1697464176058,
+      "version": "0.15.1"
+    },
+    "ros-humble-fastcdr-1.0.24-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "cc98654b83e1e1ab7a6ed883183d1e68",
+      "name": "ros-humble-fastcdr",
+      "sha256": "eca1b74088d95fbee8d7fd0d4b1880ea51e068f9e07a5767b2c10d642791cedd",
+      "size": 44818,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025380101,
+      "version": "1.0.24"
+    },
+    "ros-humble-fastrtps-cmake-module-2.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "6b6e60d7264fa5d342e84a0439796e25",
+      "name": "ros-humble-fastrtps-cmake-module",
+      "sha256": "000654df5ff80cd752695a5c7d49a45efac6094165050be87bf05729c37d1fc5",
+      "size": 12814,
+      "subdir": "emscripten-32",
+      "timestamp": 1697028174400,
+      "version": "2.2.1"
+    },
+    "ros-humble-gmock-vendor-1.10.9004-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-gtest-vendor",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "503a94336548e9e3ed4dfa271e89864a",
+      "name": "ros-humble-gmock-vendor",
+      "sha256": "9a0a2a0fb8929fbcd48576b49f08afea11f6ae107bcf9afd31f7256304340a0b",
+      "size": 100497,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025953267,
+      "version": "1.10.9004"
+    },
+    "ros-humble-google-benchmark-vendor-0.1.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "benchmark",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "3c6288695632b93f1e8576055b33dc3d",
+      "name": "ros-humble-google-benchmark-vendor",
+      "sha256": "9d0f659c5530457d2b2beb60b41a4f512981e5d8126ea152b8c8e764066b29b6",
+      "size": 9306,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025426831,
+      "version": "0.1.2"
+    },
+    "ros-humble-gtest-vendor-1.10.9004-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "524e38f29334680d108a5e5fda510de5",
+      "name": "ros-humble-gtest-vendor",
+      "sha256": "5adf10407cd2fbc51a6c20e890ad82f47929c50d3be45d9e2a201e4b94f9a14f",
+      "size": 186292,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025443627,
+      "version": "1.10.9004"
+    },
+    "ros-humble-launch-1.0.4-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "importlib-metadata",
+        "lark-parser",
+        "python",
+        "pyyaml",
+        "ros-humble-ament-index-python",
+        "ros-humble-osrf-pycommon",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "60e57098452bf5da04984689b734f4a7",
+      "name": "ros-humble-launch",
+      "sha256": "ce394d11a525348143ecc4b74b577986dba90b9e0afedf6d2d9a0090bd8a3f7f",
+      "size": 327969,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026635559,
+      "version": "1.0.4"
+    },
+    "ros-humble-launch-testing-1.0.4-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "pytest",
+        "python",
+        "ros-humble-ament-index-python",
+        "ros-humble-launch",
+        "ros-humble-launch-xml",
+        "ros-humble-launch-yaml",
+        "ros-humble-osrf-pycommon",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "1d7127bdf259dfbbac6c25ab1a092b3a",
+      "name": "ros-humble-launch-testing",
+      "sha256": "61b1830024910f4c4c7875f82da3c9f1143c9fe68d04984d10721350963c497b",
+      "size": 124828,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027645424,
+      "version": "1.0.4"
+    },
+    "ros-humble-launch-testing-ament-cmake-1.0.4-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-test",
+        "ros-humble-launch-testing",
+        "ros-humble-python-cmake-module",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "1a5499a632ffbf5843b36fc8bbbf2dd1",
+      "name": "ros-humble-launch-testing-ament-cmake",
+      "sha256": "e5a804b9e87c5733e00eab7fa2b44435612b27e5fef7313f67573af4607732d9",
+      "size": 14155,
+      "subdir": "emscripten-32",
+      "timestamp": 1697029968675,
+      "version": "1.0.4"
+    },
+    "ros-humble-launch-xml-1.0.4-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-launch",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "769dc74f120d767a0beae852e485ec18",
+      "name": "ros-humble-launch-xml",
+      "sha256": "9912938b3b5cb91ad5e3ae862e8e169829a074c6c99ea29d0885bd6ec967d229",
+      "size": 17773,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027220185,
+      "version": "1.0.4"
+    },
+    "ros-humble-launch-yaml-1.0.4-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-launch",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "e40334e1be6447fee1371843c41a8109",
+      "name": "ros-humble-launch-yaml",
+      "sha256": "c6e6aac18b280dde339b3d3b413159d243799c933390175073ce6375a76862d8",
+      "size": 18374,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027236808,
+      "version": "1.0.4"
+    },
+    "ros-humble-libstatistics-collector-1.3.1-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-rcl",
+        "ros-humble-rcpputils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros-humble-statistics-msgs",
+        "ros-humble-std-msgs",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "fd02e6452172495184c393bd61bf01b6",
+      "name": "ros-humble-libstatistics-collector",
+      "sha256": "4a04693766e1f6ef0d942be2644f204984af32b6418639fbdbe37ae76470dec2",
+      "size": 29805,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461508671,
+      "version": "1.3.1"
+    },
+    "ros-humble-libyaml-vendor-1.2.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble",
+        "yaml",
+        "yaml-cpp"
+      ],
+      "md5": "efe22e4c4471d5f75181d0a07e6c7ff2",
+      "name": "ros-humble-libyaml-vendor",
+      "sha256": "9152715fa4a2b306d7bdaf444e5c4b8c1ab5c192677d8526631d0bae11b8f15d",
+      "size": 14783,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257500383,
+      "version": "1.2.2"
+    },
+    "ros-humble-osrf-pycommon-2.0.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "importlib-metadata",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "31774a91e5f5b23e418fa17d956ccc62",
+      "name": "ros-humble-osrf-pycommon",
+      "sha256": "52c4397b1c9756ce3b46ddabf9a42b23e08d7524f8b9595220c30e88c5b1897e",
+      "size": 70569,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025460499,
+      "version": "2.0.2"
+    },
+    "ros-humble-osrf-testing-tools-cpp-1.5.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "9625cc8bbe3fc3311978645f7cee822e",
+      "name": "ros-humble-osrf-testing-tools-cpp",
+      "sha256": "b4680f42d01d0da769e247d1f15eb72e15faff389756db9e0f5e7cbde9690737",
+      "size": 4286936,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025582905,
+      "version": "1.5.2"
+    },
+    "ros-humble-performance-test-fixture-0.0.9-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-google-benchmark",
+        "ros-humble-google-benchmark-vendor",
+        "ros-humble-osrf-testing-tools-cpp",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "95d89fa3ec90518dda271ae878d25288",
+      "name": "ros-humble-performance-test-fixture",
+      "sha256": "3d34b4ad47001a734cffb460eecc1862a7e76f12a3c8e15a3faad1ed03bf9cbf",
+      "size": 22330,
+      "subdir": "emscripten-32",
+      "timestamp": 1697028273276,
+      "version": "0.0.9"
+    },
+    "ros-humble-python-cmake-module-0.10.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "d787a202cec47b1dd4a2e8fe009d5e09",
+      "name": "ros-humble-python-cmake-module",
+      "sha256": "4fbb2f995187dddf5183f998561c12aa28dd1c04bf7167b3ddc0a5cdeaaa1dd8",
+      "size": 13840,
+      "subdir": "emscripten-32",
+      "timestamp": 1697028383957,
+      "version": "0.10.0"
+    },
+    "ros-humble-rcl-5.3.5-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcl-interfaces",
+        "ros-humble-rcl-logging-interface",
+        "ros-humble-rcl-logging-spdlog",
+        "ros-humble-rcl-yaml-param-parser",
+        "ros-humble-rcutils",
+        "ros-humble-rmw",
+        "ros-humble-rmw-implementation",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-tracetools",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "27e81af23b70654b53a3ee531107c323",
+      "name": "ros-humble-rcl",
+      "sha256": "41f44c562e69f55d7d69c2b87d0e99e456fc06bc7824e99023b5e21755d79bd5",
+      "size": 144926,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461425563,
+      "version": "5.3.5"
+    },
+    "ros-humble-rcl-action-5.3.5-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-action-msgs",
+        "ros-humble-rcl",
+        "ros-humble-rcutils",
+        "ros-humble-rmw",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-runtime-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "67f161796cf0a99b40a87ad4434860f2",
+      "name": "ros-humble-rcl-action",
+      "sha256": "81ff34989abe9a3dfae92b72a8d52d2bd8474302ee76d748c839e1d8fd80abf4",
+      "size": 52950,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461578178,
+      "version": "5.3.5"
+    },
+    "ros-humble-rcl-interfaces-1.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "d647d7f5d6ef3b647d4cc590828079ba",
+      "name": "ros-humble-rcl-interfaces",
+      "sha256": "a744572d8129449306703dbe17d3a76895776bec12f77b6b0512a8f0342df7c3",
+      "size": 326998,
+      "subdir": "emscripten-32",
+      "timestamp": 1697460861112,
+      "version": "1.2.1"
+    },
+    "ros-humble-rcl-logging-interface-2.3.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "d096eeea85aa6041ce4a0fd222d945ab",
+      "name": "ros-humble-rcl-logging-interface",
+      "sha256": "1c28ca9e29e37ca78d43b716bd487b30e75867d1b925de06153caf4f41fa90b7",
+      "size": 18201,
+      "subdir": "emscripten-32",
+      "timestamp": 1697256583562,
+      "version": "2.3.1"
+    },
+    "ros-humble-rcl-logging-spdlog-2.3.1-py310h36bbe90_3.tar.bz2": {
+      "build": "py310h36bbe90_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcl-logging-interface",
+        "ros-humble-rcpputils",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros-humble-spdlog-vendor",
+        "ros2-distro-mutex 0.4.* humble",
+        "spdlog 1.11.*"
+      ],
+      "md5": "d84a30e24d7a8574105c6009ee79e0df",
+      "name": "ros-humble-rcl-logging-spdlog",
+      "sha256": "40defbb34fc01a66468c7d4d8155cedc8978cb9e473896d0137789205ef4886e",
+      "size": 21466,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257539146,
+      "version": "2.3.1"
+    },
+    "ros-humble-rcl-yaml-param-parser-5.3.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-libyaml-vendor",
+        "ros-humble-rmw",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble",
+        "yaml",
+        "yaml-cpp"
+      ],
+      "md5": "4018cafd3a7a267804c472a14e7d50e8",
+      "name": "ros-humble-rcl-yaml-param-parser",
+      "sha256": "79bb635f6e6db00dc59aa6eb375457f0a13821a293b35cbff55155c4f4adb3a4",
+      "size": 34456,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257634251,
+      "version": "5.3.5"
+    },
+    "ros-humble-rclc-4.0.2-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcl",
+        "ros-humble-rcl-action",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-generator-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "df2c1dc3837196258d35ec201747ca0c",
+      "name": "ros-humble-rclc",
+      "sha256": "a56af468f8de5766dbccfe237e668139f8dd926bfa60d272781e66ac197c0579",
+      "size": 61816,
+      "subdir": "emscripten-32",
+      "timestamp": 1697465702101,
+      "version": "4.0.2"
+    },
+    "ros-humble-rclcpp-16.0.6-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-index-cpp",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-libstatistics-collector",
+        "ros-humble-rcl",
+        "ros-humble-rcl-interfaces",
+        "ros-humble-rcl-yaml-param-parser",
+        "ros-humble-rcpputils",
+        "ros-humble-rcutils",
+        "ros-humble-rmw",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosgraph-msgs",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-c",
+        "ros-humble-rosidl-typesupport-cpp",
+        "ros-humble-statistics-msgs",
+        "ros-humble-tracetools",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "b98f901945e11391d29a8da32c2ff120",
+      "name": "ros-humble-rclcpp",
+      "sha256": "109d64facda7410938687943b10566a95813a9072e3e0d0785f8a467f20231e9",
+      "size": 728951,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461672691,
+      "version": "16.0.6"
+    },
+    "ros-humble-rclcpp-action-16.0.6-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-action-msgs",
+        "ros-humble-ament-cmake",
+        "ros-humble-rcl-action",
+        "ros-humble-rclcpp",
+        "ros-humble-rcpputils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-runtime-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "c46fbf081767cc97da5f2d1271b97738",
+      "name": "ros-humble-rclcpp-action",
+      "sha256": "50ecbcbc08929b2bc4213f1707aa63ff31b2b43745ae6bc4e60184ac4831d5a1",
+      "size": 66187,
+      "subdir": "emscripten-32",
+      "timestamp": 1697464240018,
+      "version": "16.0.6"
+    },
+    "ros-humble-rcpputils-2.4.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "52dbc88eb236416cdf5c28e238ad31e2",
+      "name": "ros-humble-rcpputils",
+      "sha256": "5efb960eb38a875527ac0c0eac44bfabfa7cd0a8aaa10e0eaf4647e4800aafb5",
+      "size": 44761,
+      "subdir": "emscripten-32",
+      "timestamp": 1697250484717,
+      "version": "2.4.1"
+    },
+    "ros-humble-rcutils-5.1.3-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "805b0d51edeb0a6a781f1e4e0dd2fe4d",
+      "name": "ros-humble-rcutils",
+      "sha256": "1a2160719e99ea701624fe3e21e83e4714ad59810c775f4f0ec0c325bc727e8e",
+      "size": 90783,
+      "subdir": "emscripten-32",
+      "timestamp": 1697244504560,
+      "version": "5.1.3"
+    },
+    "ros-humble-rmw-6.1.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-runtime-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "782a991e3db4848ef81da65dbc692d89",
+      "name": "ros-humble-rmw",
+      "sha256": "b7f005a4e4dace36233846279ca2fd18200e6336932ce4e47a8daac451a9c08d",
+      "size": 70505,
+      "subdir": "emscripten-32",
+      "timestamp": 1697256617973,
+      "version": "6.1.1"
+    },
+    "ros-humble-rmw-implementation-2.8.2-py310h784e488_3.tar.bz2": {
+      "build": "py310h784e488_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-index-cpp",
+        "ros-humble-rcpputils",
+        "ros-humble-rcutils",
+        "ros-humble-rmw-implementation-cmake",
+        "ros-humble-rmw-wasm-cpp",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "b1f9fc5eb817099f9eb639debb0e9db9",
+      "name": "ros-humble-rmw-implementation",
+      "sha256": "e316188899a178e66221e858647cf4164105f04aa58a671abb30a5c71537ede2",
+      "size": 13573,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266447662,
+      "version": "2.8.2"
+    },
+    "ros-humble-rmw-implementation-cmake-6.1.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "f83dca6b5a86a6d9788dd8d6021e73b4",
+      "name": "ros-humble-rmw-implementation-cmake",
+      "sha256": "a9adf1a2e67037fe43a61d09779b364f3997699a767bcd50e07693d5d74be819",
+      "size": 14812,
+      "subdir": "emscripten-32",
+      "timestamp": 1697028506421,
+      "version": "6.1.1"
+    },
+    "ros-humble-rmw-wasm-cpp-1.0.0-py310h8bb13ca_0.tar.bz2": {
+      "build": "py310h8bb13ca_0",
+      "build_number": 0,
+      "depends": [
+        "dynmsg",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcpputils",
+        "ros-humble-rcutils",
+        "ros-humble-rmw",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-introspection-c",
+        "ros-humble-rosidl-typesupport-introspection-cpp",
+        "ros-humble-wasm-cpp",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "a0309d259bd9bfff3680bbf50e296c00",
+      "name": "ros-humble-rmw-wasm-cpp",
+      "sha256": "081a7dc2f48e2e5a2df5e1e8ea6d3430c0dbf69a192df18bb51974b3b751b4a7",
+      "size": 122407,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266336866,
+      "version": "1.0.0"
+    },
+    "ros-humble-ros-environment-3.2.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "202d6e55f0a3cea069ec199e80883519",
+      "name": "ros-humble-ros-environment",
+      "sha256": "0d8bc48ac1ca5b1c9349c452e007b6a16e52ee51f7c9abc6a2aeb831ac0a38c0",
+      "size": 11845,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024627610,
+      "version": "3.2.2"
+    },
+    "ros-humble-ros-workspace-1.0.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "d6ab329aef8b898507cf7b8917312cf1",
+      "name": "ros-humble-ros-workspace",
+      "sha256": "d9d88e668571836ead5f203095b3e1bc2c05d88e8878fa60df39e59e89bedd8e",
+      "size": 24275,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024752786,
+      "version": "1.0.2"
+    },
+    "ros-humble-rosgraph-msgs-1.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "88d92ffd9fdced38177eccc589502a2a",
+      "name": "ros-humble-rosgraph-msgs",
+      "sha256": "8dd3b999d0bb20ebb5cb4d07720c6a69a5774002b73196666b8aa18e246b9a38",
+      "size": 120474,
+      "subdir": "emscripten-32",
+      "timestamp": 1697460933948,
+      "version": "1.2.1"
+    },
+    "ros-humble-rosidl-adapter-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "empy",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "fa3d9cbae74510eaecc71bf07f461eb3",
+      "name": "ros-humble-rosidl-adapter",
+      "sha256": "5389a3c9f18581d6d6b5335229c89ba7464b1a43f333c38de4df01e55337e752",
+      "size": 38798,
+      "subdir": "emscripten-32",
+      "timestamp": 1697028622671,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-cli-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "argcomplete",
+        "emscripten-abi 3.1.27.*",
+        "importlib-metadata",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "8a4cfa327feb110cf0f7aa627bd7f1da",
+      "name": "ros-humble-rosidl-cli",
+      "sha256": "39d5f567a22a9200f91d628d434653fe0489a8e0c8d9bd757608cb306d800cd7",
+      "size": 24468,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026655131,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-cmake-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "empy",
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-adapter",
+        "ros-humble-rosidl-parser",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "bc2678a1443ca135a8b22c3126689a81",
+      "name": "ros-humble-rosidl-cmake",
+      "sha256": "5d9175a1b6b14e402e10b6a461a76d056dbe57d4949104b8ed2402d52f0ae789",
+      "size": 24271,
+      "subdir": "emscripten-32",
+      "timestamp": 1697244527266,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-default-generators-1.2.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-generator-c",
+        "ros-humble-rosidl-generator-cpp",
+        "ros-humble-rosidl-generator-py",
+        "ros-humble-rosidl-typesupport-c",
+        "ros-humble-rosidl-typesupport-cpp",
+        "ros-humble-rosidl-typesupport-fastrtps-c",
+        "ros-humble-rosidl-typesupport-fastrtps-cpp",
+        "ros-humble-rosidl-typesupport-introspection-c",
+        "ros-humble-rosidl-typesupport-introspection-cpp",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "559f8069df19029f178acf4a6294fa02",
+      "name": "ros-humble-rosidl-default-generators",
+      "sha256": "30bb21effe4caf33d5e329cc2268abcea0d5538464a52fe122c1a4e020301892",
+      "size": 13492,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266670613,
+      "version": "1.2.0"
+    },
+    "ros-humble-rosidl-default-runtime-1.2.0-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-generator-py",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-c",
+        "ros-humble-rosidl-typesupport-cpp",
+        "ros-humble-rosidl-typesupport-fastrtps-c",
+        "ros-humble-rosidl-typesupport-fastrtps-cpp",
+        "ros-humble-rosidl-typesupport-introspection-c",
+        "ros-humble-rosidl-typesupport-introspection-cpp",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "ee39faa64075fb1093da58f185ecf862",
+      "name": "ros-humble-rosidl-default-runtime",
+      "sha256": "aab9adef1dd9ec26141e3685703271804763513e103772f4546d721c1a05a3eb",
+      "size": 12558,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266711419,
+      "version": "1.2.0"
+    },
+    "ros-humble-rosidl-generator-c-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-index-python",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-parser",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "27b5b78a235d5283794f9c23a7fc2e29",
+      "name": "ros-humble-rosidl-generator-c",
+      "sha256": "6f23b0381efa5f975460b168f3511c960237ed98ee0e022923755fe6624f3fbe",
+      "size": 29596,
+      "subdir": "emscripten-32",
+      "timestamp": 1697256646850,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-generator-cpp-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-index-python",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-generator-c",
+        "ros-humble-rosidl-parser",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "7bf370a7dadc828044335555b60eaf67",
+      "name": "ros-humble-rosidl-generator-cpp",
+      "sha256": "f8b019e5969b1723b7c1b4cf16808b88f952773a55141455048c417e87342779",
+      "size": 31543,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257663097,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-generator-py-0.14.4-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "numpy",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-ament-index-python",
+        "ros-humble-python-cmake-module",
+        "ros-humble-rmw",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-generator-c",
+        "ros-humble-rosidl-parser",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-typesupport-c",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros-humble-rpyutils",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "4226c39595bac50049ea1ed38a4df0db",
+      "name": "ros-humble-rosidl-generator-py",
+      "sha256": "bfa2346cb3fc1084399360e4014adb7f9d2d4f83c6d7e87fd9f7f953e7afb43e",
+      "size": 39512,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266559162,
+      "version": "0.14.4"
+    },
+    "ros-humble-rosidl-parser-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "lark-parser",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-adapter",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "a9681d8e6168323965c33221f8d37f85",
+      "name": "ros-humble-rosidl-parser",
+      "sha256": "f8155d9cf95435c478c857fb57eb7d68b1d8a4a775fbd9343e1015d809a7db89",
+      "size": 37385,
+      "subdir": "emscripten-32",
+      "timestamp": 1697030097687,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-runtime-c-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "48aba23f1195ac6aa18581f0e3190e0a",
+      "name": "ros-humble-rosidl-runtime-c",
+      "sha256": "1b2b2875807f545d6ed286292044cc4d6d14984432086bb8bfb35134047749f0",
+      "size": 41409,
+      "subdir": "emscripten-32",
+      "timestamp": 1697250513152,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-runtime-cpp-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-runtime-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "5ae933ee462db82518d1c0cd4214844b",
+      "name": "ros-humble-rosidl-runtime-cpp",
+      "sha256": "ef08c5c8967a46a5453b0718cbd51544eb00e5728dcea825d284970485037d82",
+      "size": 21283,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257569668,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-typesupport-c-2.0.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-index-python",
+        "ros-humble-rcpputils",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-typesupport-fastrtps-c",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros-humble-rosidl-typesupport-introspection-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "fafc9ac5e2b21065b80c309642396a78",
+      "name": "ros-humble-rosidl-typesupport-c",
+      "sha256": "e362e09e9c216d616b2c49cc87b6e8a77e607b1cb0d96d2afd03ed2e3dd7da4c",
+      "size": 51222,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266498598,
+      "version": "2.0.1"
+    },
+    "ros-humble-rosidl-typesupport-cpp-2.0.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-core",
+        "ros-humble-ament-index-python",
+        "ros-humble-rcpputils",
+        "ros-humble-rcutils",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-c",
+        "ros-humble-rosidl-typesupport-fastrtps-cpp",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros-humble-rosidl-typesupport-introspection-cpp",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "730560453260ddfc3088459365fa57d6",
+      "name": "ros-humble-rosidl-typesupport-cpp",
+      "sha256": "44f10d2e3caaa3938fca7995e06142a2c51a0dc90884a86a4a0676c15f13b99d",
+      "size": 50668,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266629793,
+      "version": "2.0.1"
+    },
+    "ros-humble-rosidl-typesupport-fastrtps-c-2.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-ros",
+        "ros-humble-ament-index-python",
+        "ros-humble-fastcdr",
+        "ros-humble-fastrtps-cmake-module",
+        "ros-humble-rmw",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-generator-c",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-fastrtps-cpp",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "877bca817220ac400b7707fa064fa8bb",
+      "name": "ros-humble-rosidl-typesupport-fastrtps-c",
+      "sha256": "1453c0ebf504e5758bfb9cdcafc88ae736105b3eb449209767513b6a34aec5f5",
+      "size": 45427,
+      "subdir": "emscripten-32",
+      "timestamp": 1697266385953,
+      "version": "2.2.1"
+    },
+    "ros-humble-rosidl-typesupport-fastrtps-cpp-2.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake-ros",
+        "ros-humble-ament-index-python",
+        "ros-humble-fastcdr",
+        "ros-humble-fastrtps-cmake-module",
+        "ros-humble-rmw",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-generator-cpp",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "d005f2f12c941f5f6a2dfcd19e9bae01",
+      "name": "ros-humble-rosidl-typesupport-fastrtps-cpp",
+      "sha256": "6de54b9aa4567b840b9d25727faad5ae5bfe48ad97373a27f63a2d0733468800",
+      "size": 60903,
+      "subdir": "emscripten-32",
+      "timestamp": 1697265616119,
+      "version": "2.2.1"
+    },
+    "ros-humble-rosidl-typesupport-interface-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "dc1f85cda8ea7af3b61c6124a659c382",
+      "name": "ros-humble-rosidl-typesupport-interface",
+      "sha256": "3949e028787ceeb2f442c12360994f46584f2bd8fe64d64331a9073a0c1b0663",
+      "size": 14171,
+      "subdir": "emscripten-32",
+      "timestamp": 1697028729896,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-typesupport-introspection-c-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-ament-index-python",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-parser",
+        "ros-humble-rosidl-runtime-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "0410e0a56f7f78048949f10ef4d48e55",
+      "name": "ros-humble-rosidl-typesupport-introspection-c",
+      "sha256": "4297a5d12563bcefb3773a51bc010dfe3169d4a5e8f2cab4dc343467b31c9dfb",
+      "size": 28352,
+      "subdir": "emscripten-32",
+      "timestamp": 1697256674022,
+      "version": "3.1.5"
+    },
+    "ros-humble-rosidl-typesupport-introspection-cpp-3.1.5-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ament-cmake",
+        "ros-humble-ament-index-python",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-cli",
+        "ros-humble-rosidl-cmake",
+        "ros-humble-rosidl-parser",
+        "ros-humble-rosidl-runtime-c",
+        "ros-humble-rosidl-runtime-cpp",
+        "ros-humble-rosidl-typesupport-interface",
+        "ros-humble-rosidl-typesupport-introspection-c",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "b11bbef1bb092d19ed3d750de6b8faf8",
+      "name": "ros-humble-rosidl-typesupport-introspection-cpp",
+      "sha256": "4c73bf70f75a5914e7998609556928332871feb2602d5dcb12b5582de7dfe8fd",
+      "size": 45108,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257698604,
+      "version": "3.1.5"
+    },
+    "ros-humble-rpyutils-0.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "aa9d9377c80dfa1d09ac5fb5d0609749",
+      "name": "ros-humble-rpyutils",
+      "sha256": "4dfa7e51cb15a491093bb5991695878ca800dc1e3d877cbe3f5cf218556acf7a",
+      "size": 11198,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026671909,
+      "version": "0.2.1"
+    },
+    "ros-humble-spdlog-vendor-1.3.1-py310hdce76bf_3.tar.bz2": {
+      "build": "py310hdce76bf_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble",
+        "spdlog 1.11.*"
+      ],
+      "md5": "bbf49635cb8b09c8bcbc3d3534b9fdde",
+      "name": "ros-humble-spdlog-vendor",
+      "sha256": "12e9fae03de4dceeb3a9394c89684d1076ee56c63cb85870c5ecd5d791223f46",
+      "size": 106389,
+      "subdir": "emscripten-32",
+      "timestamp": 1697028968856,
+      "version": "1.3.1"
+    },
+    "ros-humble-statistics-msgs-1.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "4d94a4a5c8909b9787c63169db1e65f7",
+      "name": "ros-humble-statistics-msgs",
+      "sha256": "a5b4c0f5c956aba3c734011fe68d7cc183590c9810a4dde76c3b9dcdb3b29e60",
+      "size": 170694,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461008160,
+      "version": "1.2.1"
+    },
+    "ros-humble-std-msgs-4.2.3-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "ef884cfec918d29b98310071f12131e5",
+      "name": "ros-humble-std-msgs",
+      "sha256": "f6718e86c8401ff9f29bca068badea9523d23a34d6cb8ca0e1ba87fc99d5390f",
+      "size": 293523,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461097100,
+      "version": "4.2.3"
+    },
+    "ros-humble-test-interface-files-0.9.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "12f8ed8d063565aa85320ff5d3312eba",
+      "name": "ros-humble-test-interface-files",
+      "sha256": "031d6b04f7da3b584fb4a74f42511fe528cec9f823dd718062b6add61cb75e66",
+      "size": 14496,
+      "subdir": "emscripten-32",
+      "timestamp": 1697025643060,
+      "version": "0.9.1"
+    },
+    "ros-humble-test-msgs-1.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-action-msgs",
+        "ros-humble-builtin-interfaces",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "8b44de17f031ee38b58621350ca533a3",
+      "name": "ros-humble-test-msgs",
+      "sha256": "976ded924701e7f3bb7eb64f348b51f0a32c76c3f192392d4f3b9cb13f5062ba",
+      "size": 574099,
+      "subdir": "emscripten-32",
+      "timestamp": 1697461356667,
+      "version": "1.2.1"
+    },
+    "ros-humble-tracetools-4.1.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "ea229de570c5f6699d3d74cf17a95183",
+      "name": "ros-humble-tracetools",
+      "sha256": "9459e329c726635983244c7c94174fb419e58c7eda69b2f2044ef041de6f6181",
+      "size": 24930,
+      "subdir": "emscripten-32",
+      "timestamp": 1697250401392,
+      "version": "4.1.1"
+    },
+    "ros-humble-uncrustify-vendor-2.0.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble",
+        "uncrustify 0.74.*"
+      ],
+      "md5": "07db41ea5b7a6ec7e1d81a698743f6d2",
+      "name": "ros-humble-uncrustify-vendor",
+      "sha256": "b73142e7142c24994cd6febc3dda8810d815e8d33ce240c9b958ce49bfad0198",
+      "size": 12764,
+      "subdir": "emscripten-32",
+      "timestamp": 1697026957028,
+      "version": "2.0.2"
+    },
+    "ros-humble-unique-identifier-msgs-2.2.1-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros-humble-rosidl-default-runtime",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "6c6c229648216365a76b3237d2221e4e",
+      "name": "ros-humble-unique-identifier-msgs",
+      "sha256": "d0f14f1b85bf1525b33624a345d1bd4059ab67af6ffcbfa3daed576d36ded93e",
+      "size": 113701,
+      "subdir": "emscripten-32",
+      "timestamp": 1697460708129,
+      "version": "2.2.1"
+    },
+    "ros-humble-wasm-cpp-1.0.0-py310h8bb13ca_0.tar.bz2": {
+      "build": "py310h8bb13ca_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-rcutils",
+        "ros2-distro-mutex 0.4.* humble"
+      ],
+      "md5": "eb04807d80e714d84cd51d35ad638a68",
+      "name": "ros-humble-wasm-cpp",
+      "sha256": "a8bd8d7dec3f81edaa8ef1ab3af916e4a9311abbba2fa889ab48c0bbeb74a468",
+      "size": 48083,
+      "subdir": "emscripten-32",
+      "timestamp": 1697257599875,
+      "version": "1.0.0"
+    },
+    "ros-humble-yaml-cpp-vendor-8.0.2-py310h8bb13ca_3.tar.bz2": {
+      "build": "py310h8bb13ca_3",
+      "build_number": 3,
+      "depends": [
+        "emscripten-abi 3.1.27.*",
+        "python",
+        "ros-humble-ros-workspace",
+        "ros2-distro-mutex 0.4.* humble",
+        "yaml-cpp"
+      ],
+      "md5": "7cd2022fafd372132f3bb75aaec9233c",
+      "name": "ros-humble-yaml-cpp-vendor",
+      "sha256": "5bece6e0098b9a41ccbcd4261358897a05afe0012672bd83078d2bcaa2cd1c26",
+      "size": 11656,
+      "subdir": "emscripten-32",
+      "timestamp": 1697027128265,
+      "version": "8.0.2"
+    },
+    "ros2-distro-mutex-0.4.0-humble.tar.bz2": {
+      "build": "humble",
+      "build_number": 0,
+      "depends": [],
+      "md5": "2b45b08eb7317759a029a860c3a0ad98",
+      "name": "ros2-distro-mutex",
+      "sha256": "cd3d05840b1fee15d6cc7b7ef06791030ba20a1afa5f09c8106a1a578466c7fb",
+      "size": 3917,
+      "subdir": "emscripten-32",
+      "timestamp": 1697024474786,
+      "version": "0.4.0"
+    },
+    "spdlog-1.11.0-hac94dcc_1.tar.bz2": {
+      "build": "hac94dcc_1",
+      "build_number": 1,
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "5cdbe1af9b1349f08d6b8177c2afa42b",
+      "name": "spdlog",
+      "sha256": "086d5343cbc06e2a8ef2d29b695e2045fedef30d1c284db8ab2c0a9582e7eaa6",
+      "size": 187095,
+      "subdir": "emscripten-32",
+      "timestamp": 1697022328682,
+      "version": "1.11.0"
+    },
+    "uncrustify-0.74.0-h9e12842_0.tar.bz2": {
+      "build": "h9e12842_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "121c0a97c8f462fd4379412a8f8b8995",
+      "name": "uncrustify",
+      "sha256": "e2c74cda8ca88aea7ce89e2ff152cc43d64ebba95cd82826bc1becc166e2cd83",
+      "size": 98170,
+      "subdir": "emscripten-32",
+      "timestamp": 1697022135774,
+      "version": "0.74.0"
+    },
+    "yaml-0.2.5-h9e12842_0.tar.bz2": {
+      "build": "h9e12842_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "c5f97aa223e30b1e9bf2e85a4bfb823b",
+      "name": "yaml",
+      "sha256": "7d28de1592287a7c183548dddfabbe3fb5ca5c1401983dbf148d0eadabdbde71",
+      "size": 189711,
+      "subdir": "emscripten-32",
+      "timestamp": 1697022390526,
+      "version": "0.2.5"
+    },
+    "yaml-cpp-0.7.0-h9e12842_0.tar.bz2": {
+      "build": "h9e12842_0",
+      "build_number": 0,
+      "depends": [
+        "emscripten-abi 3.1.27.*"
+      ],
+      "md5": "44819b27673e0093820651fd7a59dd67",
+      "name": "yaml-cpp",
+      "sha256": "26005d76730c555fdc64eeaed80c039442cf757f30786a18d8d4cf27f8ebec0a",
+      "size": 135123,
+      "subdir": "emscripten-32",
+      "timestamp": 1697021984822,
+      "version": "0.7.0"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}

@@ -1,0 +1,211 @@
+{
+  "paths": [
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/client.hpp",
+      "path_type": "hardlink",
+      "sha256": "eea02fffa60c63314e05619012a34d60be3117e0f6bf6adda4c9935c84075a15",
+      "size_in_bytes": 26163
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/client_goal_handle.hpp",
+      "path_type": "hardlink",
+      "sha256": "8b52a1acb85ce277392e3fb729d5deb45702cc08cf2f13d80063a54a0956c23e",
+      "size_in_bytes": 4928
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/client_goal_handle_impl.hpp",
+      "path_type": "hardlink",
+      "sha256": "9455bb530c1fe175b974462864fe4b94a0faae209f590a191cd8c159803946f7",
+      "size_in_bytes": 4790
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/create_client.hpp",
+      "path_type": "hardlink",
+      "sha256": "d0283f8ab45c673227d5b1d848cbadc624aed5f0477541afaf64c740ccc5a32c",
+      "size_in_bytes": 4517
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/create_server.hpp",
+      "path_type": "hardlink",
+      "sha256": "b503017396e4df5e33b5bc9b3fa8363f59dd76ae34d9d34c9c852c1bd406adb5",
+      "size_in_bytes": 6326
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/exceptions.hpp",
+      "path_type": "hardlink",
+      "sha256": "8ed1b920f95b24d43d5c4d13d2fe799b965bed6f63a78a722ac34d8b6af8a4d9",
+      "size_in_bytes": 1282
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/qos.hpp",
+      "path_type": "hardlink",
+      "sha256": "a2061d2ae19919aa16131e02ca4766a9df7692ae42e5c19a7ff794746b61a1c8",
+      "size_in_bytes": 964
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/rclcpp_action.hpp",
+      "path_type": "hardlink",
+      "sha256": "17a08d9baf626771298c4fac0cca1b5786016c35d8a8e6462a1ec80e7038bd77",
+      "size_in_bytes": 1553
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/server.hpp",
+      "path_type": "hardlink",
+      "sha256": "da367a41405b77dfe6099ab3210e0bc29e3dbdfa93a4fe9754bff4cd60c4f5b0",
+      "size_in_bytes": 19149
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/server_goal_handle.hpp",
+      "path_type": "hardlink",
+      "sha256": "77eb6dabb38b10cd4204626155db457343840e1372b18c8aa48fa0c0f5ae5b87",
+      "size_in_bytes": 8630
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/types.hpp",
+      "path_type": "hardlink",
+      "sha256": "40f1f9cc162d0293be8c7c12efa13d2ce9fa3f422849e4f995dd32f5f5ad26bb",
+      "size_in_bytes": 2303
+    },
+    {
+      "_path": "include/rclcpp_action/rclcpp_action/visibility_control.hpp",
+      "path_type": "hardlink",
+      "sha256": "91822ff6e08edbeb639000438948efbe1fa732ab03450a2e641f1d9b98eab92e",
+      "size_in_bytes": 2225
+    },
+    {
+      "_path": "lib/librclcpp_action.a",
+      "path_type": "hardlink",
+      "sha256": "126421ff5d7c7d55e7cd5e50c58e67ce030b009fe198e97b118cd27474ca064a",
+      "size_in_bytes": 195774
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/rclcpp_action",
+      "path_type": "hardlink",
+      "sha256": "b047349af302d19a80303df49fafac31fc710288411b49791371e4250ae4630b",
+      "size_in_bytes": 169
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/rclcpp_action",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/rclcpp_action",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/ament_cmake_export_dependencies-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "269abec9de923872be46d7b81c00eec8288b31008b13a4f95fab439b32b90868",
+      "size_in_bytes": 4096
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/ament_cmake_export_include_directories-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "d1d6c98f9eef050982c3d01a7199cfea046c159df3e7463993e6607812f54054",
+      "size_in_bytes": 795
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/ament_cmake_export_libraries-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "0b5637514ca11f3ab960350fc11581ff84ecd0ae682bfb20983f8baf1ca9ce7f",
+      "size_in_bytes": 5059
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/ament_cmake_export_targets-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "5b24f37966e21e95f5ffd483c2911c448fbec3e97273f58d7c33d402f42bb665",
+      "size_in_bytes": 977
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/rclcpp_actionConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "07852d35ab1c6650a3735cb4be7f3025abebf17e73a742cf4c49412d029a1f56",
+      "size_in_bytes": 433
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/rclcpp_actionConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "9726962ceabae88b2a851de6c8cb48a83e847c9c622cadff1186daab1db5639a",
+      "size_in_bytes": 1473
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/rclcpp_actionExport-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "9cba600b75bfa185542bfc2e7194e9a8835873ff8565fe72d0cf27baf050b119",
+      "size_in_bytes": 927
+    },
+    {
+      "_path": "share/rclcpp_action/cmake/rclcpp_actionExport.cmake",
+      "path_type": "hardlink",
+      "sha256": "34f7a7bc793d4ac515561b3ff82031fa62da7c3e9f0cf831c6fc24913a04fb5f",
+      "size_in_bytes": 4702
+    },
+    {
+      "_path": "share/rclcpp_action/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rclcpp_action/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/rclcpp_action/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rclcpp_action/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/rclcpp_action/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/rclcpp_action/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "bd7dae0cc11a03d24b5888adfaf6d7d6832f98480d2a852bd7069c541d0d04a1",
+      "size_in_bytes": 107
+    },
+    {
+      "_path": "share/rclcpp_action/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rclcpp-action-0_1697464087045/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+      "sha256": "c16e3ff300f434be135716db13cd2e3e37dfa7ae672bb23130ab684b6203d32c",
+      "size_in_bytes": 5231
+    },
+    {
+      "_path": "share/rclcpp_action/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/rclcpp_action/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "19dd4f99358490f519f78a810d2c448e654b36728263a150ecfa693361c53694",
+      "size_in_bytes": 172
+    },
+    {
+      "_path": "share/rclcpp_action/package.xml",
+      "path_type": "hardlink",
+      "sha256": "735fb9c7ae94c402816e229fc2a9917bb86c7edb0f3bf7b41f5a8a130d6b9287",
+      "size_in_bytes": 1269
+    }
+  ],
+  "paths_version": 1
+}

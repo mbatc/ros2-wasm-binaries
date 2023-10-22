@@ -1,0 +1,419 @@
+{
+  "paths": [
+    {
+      "_path": "include/rcutils/rcutils/allocator.h",
+      "path_type": "hardlink",
+      "sha256": "9fa2269decb3fad2b8887cdabe59a8d40b290be7cdba1c5452e0a795c1314ee6",
+      "size_in_bytes": 5252
+    },
+    {
+      "_path": "include/rcutils/rcutils/cmdline_parser.h",
+      "path_type": "hardlink",
+      "sha256": "6b32f7f0a3b62609519adb8ff41223c3647dc1405843bbf9daf50f0af9f80fbc",
+      "size_in_bytes": 1783
+    },
+    {
+      "_path": "include/rcutils/rcutils/env.h",
+      "path_type": "hardlink",
+      "sha256": "638de5b29bd072466d90732fee337c840b8bf789b803f27e94ddcec348faf671",
+      "size_in_bytes": 4397
+    },
+    {
+      "_path": "include/rcutils/rcutils/error_handling.h",
+      "path_type": "hardlink",
+      "sha256": "b7f97064e98fd4fecbe1e3c8dc33b9469d7c4cf57e8cb4bfba610919dd8d303d",
+      "size_in_bytes": 12184
+    },
+    {
+      "_path": "include/rcutils/rcutils/filesystem.h",
+      "path_type": "hardlink",
+      "sha256": "4eee7e07459c175703891af996c2e974ba9f1e6862af79f783dc282b05fcff4b",
+      "size_in_bytes": 10018
+    },
+    {
+      "_path": "include/rcutils/rcutils/find.h",
+      "path_type": "hardlink",
+      "sha256": "58363c213d6afb3d76845fb8b160191e954095d2c09c027e6145e5074a86efd2",
+      "size_in_bytes": 3021
+    },
+    {
+      "_path": "include/rcutils/rcutils/format_string.h",
+      "path_type": "hardlink",
+      "sha256": "96deda8b1e57551ce02c30081b512c736ac04f0bd1c1fca56ff8d7f32846cd5b",
+      "size_in_bytes": 2654
+    },
+    {
+      "_path": "include/rcutils/rcutils/get_env.h",
+      "path_type": "hardlink",
+      "sha256": "754f412820ab91ebee613fafa1ba5f208402dfcae98cd94a3575fa57394b4770",
+      "size_in_bytes": 1020
+    },
+    {
+      "_path": "include/rcutils/rcutils/isalnum_no_locale.h",
+      "path_type": "hardlink",
+      "sha256": "7da0ffa9689b67b61864ada027114196156d7902165653ec58851bb09f531e42",
+      "size_in_bytes": 1238
+    },
+    {
+      "_path": "include/rcutils/rcutils/logging.h",
+      "path_type": "hardlink",
+      "sha256": "39d539e631fb8337812419920a085d34d5a6bb66fee5cca7cbd9ab1e367129ee",
+      "size_in_bytes": 19460
+    },
+    {
+      "_path": "include/rcutils/rcutils/logging_macros.h",
+      "path_type": "hardlink",
+      "sha256": "8bfcb82f0f09c2875d4c623477f0dd6779c21b0513fe9b34a9ded82aee006f8d",
+      "size_in_bytes": 69406
+    },
+    {
+      "_path": "include/rcutils/rcutils/macros.h",
+      "path_type": "hardlink",
+      "sha256": "0b94684524c0b98e8660598bfda24ea9303997d38b78ad8696f501081a9992f6",
+      "size_in_bytes": 8481
+    },
+    {
+      "_path": "include/rcutils/rcutils/process.h",
+      "path_type": "hardlink",
+      "sha256": "338d035b78e4da7d31dd8a584bcd3bc971ff5da7777aaf8fcde5b35880f42f7a",
+      "size_in_bytes": 1584
+    },
+    {
+      "_path": "include/rcutils/rcutils/qsort.h",
+      "path_type": "hardlink",
+      "sha256": "8dd1b85a4286dd4ec3a63c832f7ede8219029b25b5fa843613209a570bf8d81e",
+      "size_in_bytes": 1690
+    },
+    {
+      "_path": "include/rcutils/rcutils/repl_str.h",
+      "path_type": "hardlink",
+      "sha256": "4a1f737d59957a7706b4d5f12449308a5bfb6c41ed7bec8d877ff259f3c5e165",
+      "size_in_bytes": 5707
+    },
+    {
+      "_path": "include/rcutils/rcutils/shared_library.h",
+      "path_type": "hardlink",
+      "sha256": "f013c2a7b8f1eab2def69f7ac0431a74bd13e507245f13c0ef14ebc38dc7f382",
+      "size_in_bytes": 5454
+    },
+    {
+      "_path": "include/rcutils/rcutils/snprintf.h",
+      "path_type": "hardlink",
+      "sha256": "238f27e35f8ab9e13de896deedb078fb098d61e106c55ad39a8a2dfb31b247d9",
+      "size_in_bytes": 2456
+    },
+    {
+      "_path": "include/rcutils/rcutils/split.h",
+      "path_type": "hardlink",
+      "sha256": "08c48c912e98ec6e0f95eddf659a22e82fb6f309c05745e603a4957ec9cd6c71",
+      "size_in_bytes": 2072
+    },
+    {
+      "_path": "include/rcutils/rcutils/stdatomic_helper.h",
+      "path_type": "hardlink",
+      "sha256": "64b023d87adbc97673fcabdc20e4ea30789b65a3831db05722b3484c250030da",
+      "size_in_bytes": 5506
+    },
+    {
+      "_path": "include/rcutils/rcutils/stdatomic_helper/gcc/stdatomic.h",
+      "path_type": "hardlink",
+      "sha256": "db2c8dc45af054a8c916eba96386d9777c229a3c316eac8cd0815f4da866207a",
+      "size_in_bytes": 15165
+    },
+    {
+      "_path": "include/rcutils/rcutils/stdatomic_helper/win32/stdatomic.h",
+      "path_type": "hardlink",
+      "sha256": "dc51cd0cc935c439eb22336ed57b67620af9fc909e37816da5516a16b324757e",
+      "size_in_bytes": 15118
+    },
+    {
+      "_path": "include/rcutils/rcutils/strcasecmp.h",
+      "path_type": "hardlink",
+      "sha256": "faddcc12e4e9ad3b206beb01f2c45416eafb645cabd2fa21a6744e59e6fe3088",
+      "size_in_bytes": 2418
+    },
+    {
+      "_path": "include/rcutils/rcutils/strdup.h",
+      "path_type": "hardlink",
+      "sha256": "eff359ba080acbb1319451639fa9ee984a129a49cec827e1acff7634ad5ea35d",
+      "size_in_bytes": 2518
+    },
+    {
+      "_path": "include/rcutils/rcutils/strerror.h",
+      "path_type": "hardlink",
+      "sha256": "757adca5fe0c1ea6e51c623ddcf404461a48bc7db37f3b80545084da22d16f15",
+      "size_in_bytes": 1455
+    },
+    {
+      "_path": "include/rcutils/rcutils/testing/fault_injection.h",
+      "path_type": "hardlink",
+      "sha256": "97e0dff1a93418da88e22b3e077945d5394367a28d4477d78f73384998f85885",
+      "size_in_bytes": 7579
+    },
+    {
+      "_path": "include/rcutils/rcutils/time.h",
+      "path_type": "hardlink",
+      "sha256": "ff6fe8d3f5f8a67cc4708a4153344326d2dad648e5366f69dedb2d8862959d22",
+      "size_in_bytes": 7148
+    },
+    {
+      "_path": "include/rcutils/rcutils/types.h",
+      "path_type": "hardlink",
+      "sha256": "2f24ad9a87f8d0762c0766ead0c610f6402c08f327c69c23f949f4ffc9eed7ee",
+      "size_in_bytes": 1035
+    },
+    {
+      "_path": "include/rcutils/rcutils/types/array_list.h",
+      "path_type": "hardlink",
+      "sha256": "642a40d3335627a6947542cb82617d27a23892777180e563190f3f253718219a",
+      "size_in_bytes": 9404
+    },
+    {
+      "_path": "include/rcutils/rcutils/types/char_array.h",
+      "path_type": "hardlink",
+      "sha256": "0cc2c5b3662d67d2911d41bf2cb412e5f8d54f3b8ca363addb77c83f1a4d17f4",
+      "size_in_bytes": 9639
+    },
+    {
+      "_path": "include/rcutils/rcutils/types/hash_map.h",
+      "path_type": "hardlink",
+      "sha256": "62975a0ab44c914adcff0c390cc038fb6a71ae3c46c5d5b4dab6ba7ba54951dd",
+      "size_in_bytes": 15010
+    },
+    {
+      "_path": "include/rcutils/rcutils/types/rcutils_ret.h",
+      "path_type": "hardlink",
+      "sha256": "368daf51a38d066f606de5eae62d82c33655e546797cf94cfb609336001a0113",
+      "size_in_bytes": 2107
+    },
+    {
+      "_path": "include/rcutils/rcutils/types/string_array.h",
+      "path_type": "hardlink",
+      "sha256": "82ec541360cf3815080557b616f27126ba5187e328e44e7e5414fb0d4d02d5c7",
+      "size_in_bytes": 7387
+    },
+    {
+      "_path": "include/rcutils/rcutils/types/string_map.h",
+      "path_type": "hardlink",
+      "sha256": "fa6451a24239f5076a46f58408105c5b81974b18ecfd2d19ab09d8968d4e4c55",
+      "size_in_bytes": 16997
+    },
+    {
+      "_path": "include/rcutils/rcutils/types/uint8_array.h",
+      "path_type": "hardlink",
+      "sha256": "d544373ea17a7b6020d5130401228ec6d41d338e2aad144640de60893dd8be1b",
+      "size_in_bytes": 4133
+    },
+    {
+      "_path": "include/rcutils/rcutils/visibility_control.h",
+      "path_type": "hardlink",
+      "sha256": "42937a88446b7f90067410cfa497d6ab28c873d680cfe4f1821e336cd74cce3a",
+      "size_in_bytes": 1154
+    },
+    {
+      "_path": "include/rcutils/rcutils/visibility_control_macros.h",
+      "path_type": "hardlink",
+      "sha256": "a1bfde88183188eb7b54119fb77b4a924122ecb9a8b79ab74b9af2bf0102f7e6",
+      "size_in_bytes": 2937
+    },
+    {
+      "_path": "lib/librcutils.so",
+      "path_type": "hardlink",
+      "sha256": "382564b7508b572fd956628b894ba654a27913d60eb20c7c71a64482030ca602",
+      "size_in_bytes": 54700
+    },
+    {
+      "_path": "lib/python3.10/rcutils-5.1.3-py3.10.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "bb5ddcb7cd469efd4e322198ae76ead8e468b8ea47d82e687a99f3ad5db118f8",
+      "size_in_bytes": 51
+    },
+    {
+      "_path": "lib/python3.10/rcutils-5.1.3-py3.10.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "a6a5a6c772eae5ff89808c2754472c3d07c1d85b6a6e0c5843d0b5d9230ae48f",
+      "size_in_bytes": 171
+    },
+    {
+      "_path": "lib/python3.10/rcutils-5.1.3-py3.10.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.10/rcutils-5.1.3-py3.10.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "96a3ba95a2b019e3ff997d42aa14407832b1d05258480840da0a92c4b2ad3c80",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "lib/python3.10/rcutils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/rcutils/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "dcf6b03b7bcb45933c650e4f7ab2b1b27e3776bcb03af4699989117e442baada",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "lib/python3.10/rcutils/__pycache__/logging.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "36f3992fa4f5b9a34eb6ae2da72f8bc82cdf606732a2663d3f8bc87f781926b4",
+      "size_in_bytes": 4028
+    },
+    {
+      "_path": "lib/python3.10/rcutils/logging.py",
+      "path_type": "hardlink",
+      "sha256": "d3783adbf05d4edc2aef112b8a5ce9967aa9903a4f67c397ce9de3e5f157e1bd",
+      "size_in_bytes": 6956
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/rcutils",
+      "path_type": "hardlink",
+      "sha256": "6ba0830bedc37e42435488570a18e5721d42c21cf7d8905026c7cfe1f958bcbe",
+      "size_in_bytes": 209
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/rcutils",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/rcutils",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/rcutils/cmake/ament_cmake_export_dependencies-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "917c5c340f7ccadd855d9a407c61f551590b3b561b87327ff937009a00d429f2",
+      "size_in_bytes": 3877
+    },
+    {
+      "_path": "share/rcutils/cmake/ament_cmake_export_include_directories-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "8cab45803b41992390e6353adfa130e9706aa27a3feac204d3428c4c45df5c9f",
+      "size_in_bytes": 765
+    },
+    {
+      "_path": "share/rcutils/cmake/ament_cmake_export_libraries-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "59e185cc15371f6c9459cf1e7ac83cb51f0b218132b8dc7f6c13a1ffda98df6c",
+      "size_in_bytes": 4961
+    },
+    {
+      "_path": "share/rcutils/cmake/ament_cmake_export_targets-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "d66b2242f2fbf613b083961b728c2c589ba25f11bc1e74fab836b95144d9cfd0",
+      "size_in_bytes": 959
+    },
+    {
+      "_path": "share/rcutils/cmake/rcutilsConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "4cf63f0d611504a5568426a3c885b761c823e43b5d94c833fa9a9f0956338b21",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/rcutils/cmake/rcutilsConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "3bffa8c9c34670f0397e4b904f6c3cd0569d7f280fca4046b470fa08af0d10fd",
+      "size_in_bytes": 1394
+    },
+    {
+      "_path": "share/rcutils/cmake/rcutilsExport-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "f6c091c70a9c5b6f4c9f3ca4747e58b97f494c4c351215adf960b53e7a0048a6",
+      "size_in_bytes": 849
+    },
+    {
+      "_path": "share/rcutils/cmake/rcutilsExport.cmake",
+      "path_type": "hardlink",
+      "sha256": "c62a3b9286777c62f0a7830d4f97cceed6426ea10ce0cbf3f126cd376a73177a",
+      "size_in_bytes": 4079
+    },
+    {
+      "_path": "share/rcutils/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rcutils/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/rcutils/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rcutils/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/rcutils/environment/pythonpath.dsv",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rcutils-0_1697244429030/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "4d3d4386e71beace5b6df8a18c73bad04eb133303d7f465084f81d6e539cda3a",
+      "size_in_bytes": 304
+    },
+    {
+      "_path": "share/rcutils/environment/pythonpath.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rcutils-0_1697244429030/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "ba7698aaf6991151a0012ba978c4e154084b93fac28d9acc0d76e2db73adafdd",
+      "size_in_bytes": 408
+    },
+    {
+      "_path": "share/rcutils/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/rcutils/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "04b4023e9c1b1314589201f3af7dae8b36db305f124ce00d6e2c748f628e485b",
+      "size_in_bytes": 142
+    },
+    {
+      "_path": "share/rcutils/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rcutils-0_1697244429030/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "3635a43bcd3a1927ffafb90fe5b806849a29fb3bf64902a40e656fd915e59c5c",
+      "size_in_bytes": 5326
+    },
+    {
+      "_path": "share/rcutils/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/rcutils/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "8db8700e194ccb046e42a6e3335dd4689196f78bc5e4d1cd6fbbb9da24f6332a",
+      "size_in_bytes": 148
+    },
+    {
+      "_path": "share/rcutils/package.xml",
+      "path_type": "hardlink",
+      "sha256": "d71446f8c3a4372b9f293a83e2248b2fdd67d1a3e7890f04df5bfc057e3fa4fa",
+      "size_in_bytes": 1315
+    }
+  ],
+  "paths_version": 1
+}

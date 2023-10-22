@@ -1,0 +1,155 @@
+{
+  "paths": [
+    {
+      "_path": "bin/uncrustify.js",
+      "path_type": "hardlink",
+      "sha256": "3a0254b4b30bd8f2e11f96254cd89881dd7bc9a69179b31f308c02e21ab46bd0",
+      "size_in_bytes": 79599
+    },
+    {
+      "_path": "share/doc/uncrustify/AUTHORS",
+      "path_type": "hardlink",
+      "sha256": "6ff7bee7f769576447fab566dcaa9446d6605ad57e6237e6566926f0c7ada523",
+      "size_in_bytes": 2214
+    },
+    {
+      "_path": "share/doc/uncrustify/BUGS",
+      "path_type": "hardlink",
+      "sha256": "78c3d30f1ff91fa1250e91cbecba39e77773ca84cda1f2f7386f4895c12b5b85",
+      "size_in_bytes": 2378
+    },
+    {
+      "_path": "share/doc/uncrustify/COPYING",
+      "path_type": "hardlink",
+      "sha256": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670",
+      "size_in_bytes": 17992
+    },
+    {
+      "_path": "share/doc/uncrustify/ChangeLog",
+      "path_type": "hardlink",
+      "sha256": "9f68455f9d2844e7f412fc5eb18d33d437cad11a731b1bb9c234db01a668b6b8",
+      "size_in_bytes": 66236
+    },
+    {
+      "_path": "share/doc/uncrustify/HELP",
+      "path_type": "hardlink",
+      "sha256": "07abd7f2a6648ed976227339646564fe9f50ab22446d1d8544b0419d112e6941",
+      "size_in_bytes": 1858
+    },
+    {
+      "_path": "share/doc/uncrustify/README.md",
+      "path_type": "hardlink",
+      "sha256": "45723937ca1fb351916b5470515cdb71b140b61dd3c484c66543057d6c483704",
+      "size_in_bytes": 14877
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/MS-calling_conventions.cfg",
+      "path_type": "hardlink",
+      "sha256": "aeb54779ddd0a9e15d3e43bba130125e0e94ffe42397548ab78575300116f291",
+      "size_in_bytes": 145
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/amxmodx.cfg",
+      "path_type": "hardlink",
+      "sha256": "5d08194af4c6de18497e27f1f85650c3174cc97d3f047d153681dba189bc48f0",
+      "size_in_bytes": 10266
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/ben.cfg",
+      "path_type": "hardlink",
+      "sha256": "4bbce76eab84c97f6bc4a8855ebd755d0ddec84dc8c8705b09aba41ccab16f12",
+      "size_in_bytes": 53502
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/ben2.cfg",
+      "path_type": "hardlink",
+      "sha256": "efb6769a1368c16933e6cf838ec1c646d17d6954008cf2d53baf76fbc39c1eff",
+      "size_in_bytes": 2907
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/d.cfg",
+      "path_type": "hardlink",
+      "sha256": "20bf6edd07f1eb3cb1ee641bd76f651e8de2e3d9f4145dd015b2861645657361",
+      "size_in_bytes": 2915
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/defaults.cfg",
+      "path_type": "hardlink",
+      "sha256": "6eb0b23b90040b1ec7a8d7b706b62d02b58e9cb59c08c43f0c7daeffc0c3789a",
+      "size_in_bytes": 138622
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/freebsd.cfg",
+      "path_type": "hardlink",
+      "sha256": "f6c2f27e53ef4550da43d8d3914bf0cd9a885900d1bd1f4bd6e77db893dfe33e",
+      "size_in_bytes": 18602
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/gnu-indent.cfg",
+      "path_type": "hardlink",
+      "sha256": "ec5fe37cd764b15284f8b2e712042f9af6e6b81f9b96deab35f797bf4a00c2ec",
+      "size_in_bytes": 2927
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/klaus.cfg",
+      "path_type": "hardlink",
+      "sha256": "5debbb786bee1cbf4d86a9a81c2fdb5df66cdd541fb44ec17627c631a8392820",
+      "size_in_bytes": 18885
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/kr-indent.cfg",
+      "path_type": "hardlink",
+      "sha256": "53375d698d57de98a760b763028f27fb3cdae47a092e71f5132e883c20182af0",
+      "size_in_bytes": 3072
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/linux-indent.cfg",
+      "path_type": "hardlink",
+      "sha256": "f82f95955d22e85b1580a96b483ed1afe61522b7f1bb8133ac4b0f3118d02042",
+      "size_in_bytes": 2760
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/linux.cfg",
+      "path_type": "hardlink",
+      "sha256": "7f90efa7319c87f2965342fe3b1d9f9ebddc55cf0e0fe0ba417dc5e0390362c7",
+      "size_in_bytes": 3673
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/mono.cfg",
+      "path_type": "hardlink",
+      "sha256": "80359f199a20c99593e8e6b0e246096b2f977bdb9f0fac7aa7160345087bc3bb",
+      "size_in_bytes": 3070
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/msvc.cfg",
+      "path_type": "hardlink",
+      "sha256": "aeb54779ddd0a9e15d3e43bba130125e0e94ffe42397548ab78575300116f291",
+      "size_in_bytes": 145
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/objc.cfg",
+      "path_type": "hardlink",
+      "sha256": "48abcf962eeb073f1a14bd7bb0c7a11be40471ad34370fe2ffb51f8725ee143f",
+      "size_in_bytes": 5399
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/sun.cfg",
+      "path_type": "hardlink",
+      "sha256": "bf8eb1cac5d57682f558b1b987cdada90e34893cb6b0a888529eb87275edeead",
+      "size_in_bytes": 82822
+    },
+    {
+      "_path": "share/doc/uncrustify/examples/xsupplicant.cfg",
+      "path_type": "hardlink",
+      "sha256": "1c0699b48989fbea57e3519aa14b82f3b362c1cdff9b26dbfa4d78bc869baa9d",
+      "size_in_bytes": 2937
+    },
+    {
+      "_path": "share/man/man1/uncrustify.1",
+      "path_type": "hardlink",
+      "sha256": "ad8e502318c9cf8ed10ca7f8c8cf722058313d972a691ba17ee51b290ded9603",
+      "size_in_bytes": 5221
+    }
+  ],
+  "paths_version": 1
+}

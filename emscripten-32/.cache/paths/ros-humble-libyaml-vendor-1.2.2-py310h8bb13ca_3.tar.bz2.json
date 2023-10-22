@@ -1,0 +1,115 @@
+{
+  "paths": [
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/libyaml_vendor",
+      "path_type": "hardlink",
+      "sha256": "325adc02c853d8420e52ce0e6eafc3f302fbff8dc63478fe7d72a1684c5493bf",
+      "size_in_bytes": 97
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/libyaml_vendor",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/libyaml_vendor",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/libyaml_vendor/cmake/Modules/Findyaml.cmake",
+      "path_type": "hardlink",
+      "sha256": "d835cfe3282d46205e230866816dfc981dd1c9d0989bc5ff43428e82f9a1e749",
+      "size_in_bytes": 1351
+    },
+    {
+      "_path": "share/libyaml_vendor/cmake/ament_cmake_export_dependencies-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "ba5792fbba8eaab99fcfe4255b0b713837f5f5ca995441b65e52c87aa0272e76",
+      "size_in_bytes": 3968
+    },
+    {
+      "_path": "share/libyaml_vendor/cmake/libyaml_vendor-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "443a495bdeb6ff8e2286a4aed1e6527c22da144acbda6301c53b764e2f38b91d",
+      "size_in_bytes": 767
+    },
+    {
+      "_path": "share/libyaml_vendor/cmake/libyaml_vendorConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "ba638d35f57b4c9eca92e97822152d06f5592fb774b4550187649cfd9a726694",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/libyaml_vendor/cmake/libyaml_vendorConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "2222ab4e4b2113e73f4e1a6b3a06732a01a568d04389634942587ffb79740818",
+      "size_in_bytes": 1379
+    },
+    {
+      "_path": "share/libyaml_vendor/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/libyaml_vendor/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/libyaml_vendor/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/libyaml_vendor/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/libyaml_vendor/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/libyaml_vendor/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "a4c51759b504df7d959ca601df55743992b3b9d7f2b4a72533e53df3e09a6be5",
+      "size_in_bytes": 109
+    },
+    {
+      "_path": "share/libyaml_vendor/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-libyaml-vendor-0_1697257460464/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "b52944553818b883a6b661b8c468e61b1987e996efe0442aa382bbf6bab2602f",
+      "size_in_bytes": 5233
+    },
+    {
+      "_path": "share/libyaml_vendor/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/libyaml_vendor/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "bc6eb4e9e1ed79b82304bbf9c8b819de0adc97b90fad8cffc0ad88dbaa9c93eb",
+      "size_in_bytes": 176
+    },
+    {
+      "_path": "share/libyaml_vendor/package.xml",
+      "path_type": "hardlink",
+      "sha256": "bc1308f51add441b5bf1233a2978da8bd02817835ee2271e93f28cde813693ec",
+      "size_in_bytes": 1179
+    }
+  ],
+  "paths_version": 1
+}

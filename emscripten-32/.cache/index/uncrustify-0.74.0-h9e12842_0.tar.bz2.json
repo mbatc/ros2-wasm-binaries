@@ -1,0 +1,1 @@
+{"build": "h9e12842_0", "build_number": 0, "depends": ["emscripten-abi 3.1.27.*"], "name": "uncrustify", "subdir": "emscripten-32", "timestamp": 1697022135774, "version": "0.74.0", "size": 98170, "md5": "121c0a97c8f462fd4379412a8f8b8995", "sha256": "e2c74cda8ca88aea7ce89e2ff152cc43d64ebba95cd82826bc1becc166e2cd83"}

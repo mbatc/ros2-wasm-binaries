@@ -1,0 +1,133 @@
+{
+  "paths": [
+    {
+      "_path": "bin/ament_flake8",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-flake8-0_1697267700851/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+      "sha256": "813f79ec2340e6ba7ebb390693941db21230c0e00092932e69bfa7e3b0dd20e0",
+      "size_in_bytes": 499
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "4cbbaf419a121fbab43d1d2819b567ebe81be5ae5ecde873b0456bdf6a1622c3",
+      "size_in_bytes": 726
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "1cfa5106261dd5703fdbe75b7d55e61f3be7a4dd7edd74b41e7d1866e2315444",
+      "size_in_bytes": 1517
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "3bb4f3445373f9f3fc60bbf829167828ece87ec1d1f1c837bd219517f11217dc",
+      "size_in_bytes": 167
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "e755a11d786653912501412fd92770f5ce120193eeadbba87d4f34a5c1c2facb",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "cf3e00daba63be28edb8623d53fd3030d12902b209e531eebd63e0613b479587",
+      "size_in_bytes": 13
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "991e575bb1ab13815db36b6cc5489fc81a0b06e461d6a2f382a19edbb9e6dcc7",
+      "size_in_bytes": 405
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "47545c812c6ff43bec2f4e38b399bf6c5727308f6d592c8fb71ac0ce056d3cd2",
+      "size_in_bytes": 150
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/__pycache__/main.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "50012948e97b05f747ce506948f6d2848c30689c0c8a305ac2cecd8025e084f1",
+      "size_in_bytes": 8440
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/__pycache__/main.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "da0abfeae3e84d9b73fb261903201565780882558c0ebda343a0c5e9228bdef6",
+      "size_in_bytes": 13599
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/__pycache__/pytest_marker.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "eb37624a64ba233a37786fd75d638be939c04374b110329fc207a8d11f78f7ab",
+      "size_in_bytes": 613
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/__pycache__/pytest_marker.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "0c5074e0836bf7783e945a8a7cc07714ff63da290413b94317e1108fa002b648",
+      "size_in_bytes": 400
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/configuration/ament_flake8.ini",
+      "path_type": "hardlink",
+      "sha256": "3576fe1da3ee2d69175829a1ec70018d12d4cdb85f866b09378a343c5146beee",
+      "size_in_bytes": 181
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/main.py",
+      "path_type": "hardlink",
+      "sha256": "2a941c96040b76023e5827d045dfa548ecffe7d04011a1e56f112ba6527ea307",
+      "size_in_bytes": 9993
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_flake8/pytest_marker.py",
+      "path_type": "hardlink",
+      "sha256": "c0a9eb18eca176e2a7d39feacd177c52d8af162bfc1eb33c037f069450696b73",
+      "size_in_bytes": 735
+    },
+    {
+      "_path": "share/ament_flake8/package.xml",
+      "path_type": "hardlink",
+      "sha256": "d345b016826665df559822b26cc92c57fb91d18af1197a698e967c9553f1c263",
+      "size_in_bytes": 812
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_flake8",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,1 @@
+{"build": "h9e12842_0", "build_number": 0, "depends": ["emscripten-abi 3.1.27.*"], "name": "yaml", "subdir": "emscripten-32", "timestamp": 1697022390526, "version": "0.2.5", "size": 189711, "md5": "c5f97aa223e30b1e9bf2e85a4bfb823b", "sha256": "7d28de1592287a7c183548dddfabbe3fb5ca5c1401983dbf148d0eadabdbde71"}

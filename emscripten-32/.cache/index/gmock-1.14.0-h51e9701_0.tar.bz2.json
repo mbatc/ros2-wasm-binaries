@@ -1,0 +1,1 @@
+{"build": "h51e9701_0", "build_number": 0, "depends": ["gtest"], "name": "gmock", "subdir": "emscripten-32", "timestamp": 1697021928294, "version": "1.14.0", "size": 4313, "md5": "0b6c69bbf947e4a4cec1fa5f4361bea0", "sha256": "e87511f3357cc78f7b2cd83393871d12c0773eb0106579e907b64be2b280fce7"}

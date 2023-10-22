@@ -1,0 +1,173 @@
+{
+  "paths": [
+    {
+      "_path": "__pycache__/_local_setup_util.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "7c6022874ab530b0473bcc92b7e77ca23570389254940bac39dc7443873b6216",
+      "size_in_bytes": 16592
+    },
+    {
+      "_path": "_local_setup_util.py",
+      "path_type": "hardlink",
+      "sha256": "d06916b09d562531e0d1e803bd35ed99041e5da974b00658e97e9472ecded00d",
+      "size_in_bytes": 15812
+    },
+    {
+      "_path": "etc/conda/activate.d/ros-humble-ros-workspace_activate.sh",
+      "path_type": "hardlink",
+      "sha256": "b602a7045c32835810be293a11d9f758467c17f86ea88181872ef3f1da136264",
+      "size_in_bytes": 711
+    },
+    {
+      "_path": "etc/conda/deactivate.d/ros-humble-ros-workspace_deactivate.sh",
+      "path_type": "hardlink",
+      "sha256": "91c009df676a4465fdee2b5971f220adb4e2cc2fd2feb0671a3c35eb5f3162b2",
+      "size_in_bytes": 454
+    },
+    {
+      "_path": "local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "c6ee2a04aaaff54dd278b4bce7128000f13b145fbd2b2187fe428733005c25fb",
+      "size_in_bytes": 373
+    },
+    {
+      "_path": "local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ros-workspace-0_1697267017919/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+      "sha256": "4a867c77e57fa2908a72646b8008e1cf87531a27b9f44b2bf9e59393db844f37",
+      "size_in_bytes": 4392
+    },
+    {
+      "_path": "local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "4fd147afd7b9c7069914b6d44263e96bb25bf2b07b74fe7a5975eefafe9fbd77",
+      "size_in_bytes": 379
+    },
+    {
+      "_path": "setup.bash",
+      "path_type": "hardlink",
+      "sha256": "12556a2725a823c3841f8fbab50892c8b8c69df9654d2a74761407226ecca4df",
+      "size_in_bytes": 349
+    },
+    {
+      "_path": "setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ros-workspace-0_1697267017919/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+      "sha256": "cecd41862f02550be0a52a97c5f8ae56c61bc5c32d969a479c4e28a35d019d03",
+      "size_in_bytes": 4515
+    },
+    {
+      "_path": "setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "010b85abbb08df6ab0fab97397d2d86d33014396852270213e9b48736151bfb9",
+      "size_in_bytes": 622
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/ros_workspace",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ros_workspace",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/ros_workspace",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ros_workspace/cmake/ros_workspaceConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "91f8bf26adaede0da607509e74d7a5915e4dfd1d5ff638460a27c7d154c7c76c",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/ros_workspace/cmake/ros_workspaceConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "453dcf460a48199d628430f919c95cdb393a90ddf4dae5932ae7b7dc0a203df9",
+      "size_in_bytes": 1294
+    },
+    {
+      "_path": "share/ros_workspace/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ros_workspace/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/ros_workspace/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ros_workspace/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/ros_workspace/environment/pythonpath.dsv",
+      "path_type": "hardlink",
+      "sha256": "067c54705273436028b1ddc8af83c45679fd38d06b30078656d3eeb901a9f27b",
+      "size_in_bytes": 61
+    },
+    {
+      "_path": "share/ros_workspace/environment/pythonpath.sh",
+      "path_type": "hardlink",
+      "sha256": "dc42810be89279c6a80e63e7d8e39441a2eced92c9268659d4d7bd594cb14ded",
+      "size_in_bytes": 165
+    },
+    {
+      "_path": "share/ros_workspace/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/ros_workspace/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "311538e70eeef85b593ca9903f9b26629af65835b3d0f4476e22111cd82aa4fc",
+      "size_in_bytes": 207
+    },
+    {
+      "_path": "share/ros_workspace/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ros-workspace-0_1697267017919/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+      "sha256": "a814398812a12738019d2978a6fcc64c7d4e09371d671b7e9ead5c4e858eb11b",
+      "size_in_bytes": 5451
+    },
+    {
+      "_path": "share/ros_workspace/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/ros_workspace/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "9238fdd9982911fb2a4dc86df0f1860e870021602ffbf4c057f19355a6d287d5",
+      "size_in_bytes": 172
+    },
+    {
+      "_path": "share/ros_workspace/package.xml",
+      "path_type": "hardlink",
+      "sha256": "338c2797c60ac3ba92b7a261f85bc2f4b7a83c8bc1de11129d19aec0d41dc770",
+      "size_in_bytes": 662
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,121 @@
+{
+  "paths": [
+    {
+      "_path": "share/ament_cmake_export_targets/cmake/ament_cmake_export_targets-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "509194530c80645e263e184303f1593acf93bfe12a89fe9bba8134b6b5eb9f41",
+      "size_in_bytes": 1202
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/cmake/ament_cmake_export_targets-extras.cmake.in",
+      "path_type": "hardlink",
+      "sha256": "d57f223d4ecee7be07fb63c1d9e48db5623ff9f030a1fc8bf267e79b2a941713",
+      "size_in_bytes": 995
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/cmake/ament_cmake_export_targetsConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "6c6cae1a25a4aa97507183f60cb24cddf66ed883fce789e5d6d7ccf028b9ecc0",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/cmake/ament_cmake_export_targetsConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "0d12f1d130880552b098575e616d80bf161020e5a421bca8675c375e4690ebf2",
+      "size_in_bytes": 1502
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/cmake/ament_cmake_export_targets_package_hook.cmake",
+      "path_type": "hardlink",
+      "sha256": "d3149c8272f95a0bb0057fbcb3b36b679932cbec22621c18380d8bd80bdee8fb",
+      "size_in_bytes": 1301
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/cmake/ament_export_targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "203feea80145bc892101e67da9d3652fd4452cc08de6006a9cf0eca0cb0b6fdb",
+      "size_in_bytes": 1800
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "6012ac6bfd63e9b717c1f89e6c909dfc38ef145c699d55043990fb153da3c119",
+      "size_in_bytes": 133
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-cmake-export-targets-0_1697267700851/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+      "sha256": "e307f8cc7008620bb9d519076ea40fa4658b8d1af6b58ed8a44ea6d5812b6617",
+      "size_in_bytes": 5257
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "ddf6f51f7e4a6872bb0c3a68db5830561b2d957b836def319fd9c42219e416ee",
+      "size_in_bytes": 224
+    },
+    {
+      "_path": "share/ament_cmake_export_targets/package.xml",
+      "path_type": "hardlink",
+      "sha256": "89ac2f494e8bda43acfad05c62a120272b42953d447787d77045502d6fc1bf26",
+      "size_in_bytes": 867
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/ament_cmake_export_targets",
+      "path_type": "hardlink",
+      "sha256": "53e47cbe01762ef3af8425f9c81aa38b0522605b29524e960d1d94408438841a",
+      "size_in_bytes": 45
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_cmake_export_targets",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/ament_cmake_export_targets",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    }
+  ],
+  "paths_version": 1
+}

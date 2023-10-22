@@ -1,0 +1,95 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "44cc11aeb934110de163d48d67fa51a9384871d606135b0fae18c69a1ae99184",
+      "size_in_bytes": 753
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "71e5fd131e34fa5d9f3899d83e8ad78edf44596d1ae8fd2948d034f93a9f9642",
+      "size_in_bytes": 1270
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "2a311c21c91993a700ff1f52a6dd66202ec6eaaa9b12272e912f5fc5730850d0",
+      "size_in_bytes": 163
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "d449aea36583ddfd9224e2f6504c894dc9533678890d15dcab0644c35f4acd0b",
+      "size_in_bytes": 49
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "f906ecc52d080c617cf62dcf4832b494ae450b7f85d0ee2f9e858db7351bc4ee",
+      "size_in_bytes": 11
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "9353c77c4df7106e437cbf7b6d8f83116dc67181308b198e807ab4a984ad43c7",
+      "size_in_bytes": 144
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__pycache__/pytest_marker.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "575e80134bfd77258d500b2bb0a81db083daee8e73dfeb511028a12b205df88c",
+      "size_in_bytes": 334
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/pytest_marker.py",
+      "path_type": "hardlink",
+      "sha256": "5a7fb1a31dee7797c0145e4b5f9896c5628914e0bdf82af2a03ff524a135a0a8",
+      "size_in_bytes": 712
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_lint",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_lint/package.xml",
+      "path_type": "hardlink",
+      "sha256": "2efcae54416b419d866138ad4d43032f1db8b02b69a9a9f80bb15e5e507446ac",
+      "size_in_bytes": 705
+    }
+  ],
+  "paths_version": 1
+}

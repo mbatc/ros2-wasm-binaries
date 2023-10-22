@@ -1,0 +1,311 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.10/rosidl_adapter-3.1.5-py3.10.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "8b3498cdc3a92df271a55756d1c0f70ee8b673baeed874ce6726d7d8e69b7ec6",
+      "size_in_bytes": 58
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter-3.1.5-py3.10.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "b62bc087d9183b418d834c52b3bfa4796d968b4fefb04bca067e8aec112e88d5",
+      "size_in_bytes": 467
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter-3.1.5-py3.10.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter-3.1.5-py3.10.egg-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "f35b57204983df5eb935cb8408d55497661495c8c8b5b7f6176666fcad2624a8",
+      "size_in_bytes": 189
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter-3.1.5-py3.10.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "296b8a8c42a467d43eee6cb78cfa6fc3e740f9a8fe9e3b31e7fed09896fd2a18",
+      "size_in_bytes": 15
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "fb45e9222e2aec473c3aec8cf986830cc1e8093ddce28773e6012917b3ddc43e",
+      "size_in_bytes": 1394
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "d9adf8661f52dbdcd4d423ca7d096bf86c3da30390c0ceb7260831d60cb1dfe1",
+      "size_in_bytes": 669
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "d9fea4173bf1352fefcac2af56c5236ed1560bb6e14e93fdd5fef9f87ab43c3a",
+      "size_in_bytes": 699
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/__pycache__/__main__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "8141e8bea666c61b839b52fdcd22258e5ca1d81fc9b7609d5e32c7f1056a473b",
+      "size_in_bytes": 217
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/__pycache__/cli.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "bdfd6bd2586a034cb42631af1ae74e550c36ccef014c94c89820bff562700086",
+      "size_in_bytes": 2836
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/__pycache__/main.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "066050782f325cefa95b0053b7cbb5443342fbdaebc13f1fc2b4f916544a0e5c",
+      "size_in_bytes": 1517
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/__pycache__/parser.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "a3a7ec8153732e55e6dc34ad4e9716587597da723ae83e34147290ddf5fe1c8f",
+      "size_in_bytes": 21370
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/action/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "b884dbbe0cca9e7e2ca8877c4e4afab4766f0885d03902901fe64f0ef83a5748",
+      "size_in_bytes": 1588
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/action/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "cba780fa4a21612e3653e41f53ccfdde6f7ba4120c91555ac1c79103ae1773e4",
+      "size_in_bytes": 933
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/cli.py",
+      "path_type": "hardlink",
+      "sha256": "1d71d1f7e82859f432c3ff6e7c5028e1c62ff954d62bb2d30a687421d4fcd448",
+      "size_in_bytes": 3419
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/main.py",
+      "path_type": "hardlink",
+      "sha256": "fa4ddd41aeae531b19db1720df3a46cb41e8863f6c5330b6e00bbd08c8a6ac9d",
+      "size_in_bytes": 2380
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/msg/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "8c2176b4c06a1f3e9926887abf85bb978d86bd1702f026b8c4591228534fbfd6",
+      "size_in_bytes": 3658
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/msg/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "ccd0d70a9cda3791592d242b854f8f0b24b63855dd5d124a47628efb3c491358",
+      "size_in_bytes": 2675
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/parser.py",
+      "path_type": "hardlink",
+      "sha256": "c39ae01a458181a7ff9c827d13b99baa507221a07302a4ac3cfc94f55b23e15c",
+      "size_in_bytes": 33404
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/resource/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "9cbe8c3c7595d27e9b8759ca840825d66696dd2552bfbc99c4dd8050800ba6a7",
+      "size_in_bytes": 2747
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/resource/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "a513d14496ef68ee53ca96d8d793943fc361c81e9bcac3e008da6a02587af2a4",
+      "size_in_bytes": 1923
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/resource/action.idl.em",
+      "path_type": "hardlink",
+      "sha256": "c203d984ac8d47693ff5d11df8d8b22c22295c8c3a416c596b64b3c30519f6e4",
+      "size_in_bytes": 778
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/resource/msg.idl.em",
+      "path_type": "hardlink",
+      "sha256": "a88137989991e2565b1e24acee0c4df1b0f48d14c2be566c54c28fa6957ed828",
+      "size_in_bytes": 566
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/resource/srv.idl.em",
+      "path_type": "hardlink",
+      "sha256": "fd0c549782079a8fba5fa8528951ec63cb317e3c10c2e02a121385a318f06241",
+      "size_in_bytes": 665
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/resource/struct.idl.em",
+      "path_type": "hardlink",
+      "sha256": "cb06fbf7f471d418bc179a79509ef612549c05ca4ffc4a3bed4f6aea452f14ac",
+      "size_in_bytes": 3198
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/srv/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d594903deb7e8474b42f245186b11e937ddc5aea3b3acef7b8f4d9ab2a57ae48",
+      "size_in_bytes": 1567
+    },
+    {
+      "_path": "lib/python3.10/rosidl_adapter/srv/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "68090cfdcb167e09d890aa7c4cdc5d03880ee1405dbf288a9823cb86dbe11165",
+      "size_in_bytes": 919
+    },
+    {
+      "_path": "lib/rosidl_adapter/__pycache__/msg2idl.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "7ded6e9e64771a785b86759ed165bd43f8c9b532bbb1e55ebe144083122a4148",
+      "size_in_bytes": 300
+    },
+    {
+      "_path": "lib/rosidl_adapter/__pycache__/srv2idl.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "0721a0b7019b71f5f0ab6823d54fbf5ea45e2069be7e92dbb3bdc32ff6728583",
+      "size_in_bytes": 300
+    },
+    {
+      "_path": "lib/rosidl_adapter/msg2idl.py",
+      "path_type": "hardlink",
+      "sha256": "7977bf9d927e02e96a1d65b2fc4c62cdd067cbc606ac6e8eb128bc0ac073f560",
+      "size_in_bytes": 810
+    },
+    {
+      "_path": "lib/rosidl_adapter/srv2idl.py",
+      "path_type": "hardlink",
+      "sha256": "f795bb09d0d3188488f45de911228053b26332eab7ebe4f9011ff578c32c9443",
+      "size_in_bytes": 810
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/rosidl_adapter",
+      "path_type": "hardlink",
+      "sha256": "c636281562e719e56dceb74165b030c34387f74fa5a0d0506d691f2ff3fcee93",
+      "size_in_bytes": 101
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/rosidl_adapter",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/rosidl_adapter",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake",
+      "path_type": "hardlink",
+      "sha256": "29011a1cfeb6c41e135f406ed7ad6bfd51ac16fb45f3abaa603168386e30d421",
+      "size_in_bytes": 2349
+    },
+    {
+      "_path": "share/rosidl_adapter/cmake/rosidl_adapter-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "062d54bbc278506ebe3e97e6808a8f1b83ae0b1cfa1c61863b1ca07b0b5e819a",
+      "size_in_bytes": 723
+    },
+    {
+      "_path": "share/rosidl_adapter/cmake/rosidl_adapterConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "4b22429e19b7486179bc8671b355c0cfe6cc680d2d9afae5648e2663f6bdff00",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/rosidl_adapter/cmake/rosidl_adapterConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "c5a6985c04c4f48eccc1729d1ed42aa25e2807b4750e339cc508ff92acf00248",
+      "size_in_bytes": 1334
+    },
+    {
+      "_path": "share/rosidl_adapter/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rosidl_adapter/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/rosidl_adapter/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rosidl_adapter/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/rosidl_adapter/environment/pythonpath.dsv",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rosidl-adapter-0_1697024441805/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "0b9f1df3494b4b31a1e0c93182bb254334f18661b6c823abbc47add5335b61a4",
+      "size_in_bytes": 304
+    },
+    {
+      "_path": "share/rosidl_adapter/environment/pythonpath.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rosidl-adapter-0_1697024441805/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "4fd4cdcc2ed8e149256fb97a2cb855c05978f49e4b7afd091a9f066ce0a857cf",
+      "size_in_bytes": 408
+    },
+    {
+      "_path": "share/rosidl_adapter/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/rosidl_adapter/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "795d0064667f91cad557791d68c7d2bd573ad80f7fe801e8882f6300649e39dc",
+      "size_in_bytes": 163
+    },
+    {
+      "_path": "share/rosidl_adapter/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rosidl-adapter-0_1697024441805/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "268f068207e97707da605df411dab122097a0bb6778e8aec3e14d3730b29ad53",
+      "size_in_bytes": 5347
+    },
+    {
+      "_path": "share/rosidl_adapter/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/rosidl_adapter/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "9f36a2d8edae2516aec5fdb009beb5cb905c18f1b256544f1d17c805b0c7fe6c",
+      "size_in_bytes": 176
+    },
+    {
+      "_path": "share/rosidl_adapter/package.xml",
+      "path_type": "hardlink",
+      "sha256": "33b7e931452ab28f7edb1650040724fe15c3a74591488efbc992565acad6acd0",
+      "size_in_bytes": 1131
+    }
+  ],
+  "paths_version": 1
+}

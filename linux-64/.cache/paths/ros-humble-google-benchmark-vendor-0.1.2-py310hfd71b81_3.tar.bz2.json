@@ -1,0 +1,11 @@
+{
+  "paths": [
+    {
+      "_path": "share/google_benchmark_vendor/package.xml",
+      "path_type": "hardlink",
+      "sha256": "2dc0a3f5373f5994d279480f1062c1ec5f8f95051cc5c06694dfaddc3073b330",
+      "size_in_bytes": 855
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,373 @@
+{
+  "paths": [
+    {
+      "_path": "bin/ament_copyright",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-copyright-0_1697268736021/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "f286d9435550242c3f1ee24786b0419c184a27e1e789fff26c344f674813543c",
+      "size_in_bytes": 502
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "6e3a61fa63673e99ac8cfb833d401372550a0b4dc7dc16083259af4c021e4fea",
+      "size_in_bytes": 742
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "970d88ebfecb86b810cf7880fcaf720fe83053d479e47b02568de239c20bdd9e",
+      "size_in_bytes": 5007
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "4f6bd1647f997fadbb7a5cc63961ac974bc380f73af66246ab43cfbce844a999",
+      "size_in_bytes": 173
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "36f8e05744334998ea8b2cce2680a4b902647f02862a80a06d8eb800e16ee092",
+      "size_in_bytes": 602
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "afed72ab98d45ab3134a21fc26c834ec2d64bfea9741599591a70461cbe0eda9",
+      "size_in_bytes": 16
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f577431a41fe64fbc4aa44a3229bf57709de341b539722d3ca6633183098069c",
+      "size_in_bytes": 2161
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "c5679a022eb8698cabd80c510009b3af6032111e5f996b21d86b3d5fbfc05e1f",
+      "size_in_bytes": 1566
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "c5575ad5296765eaf2b09477c867c682325ba226196045a0b5af988b6b5c8579",
+      "size_in_bytes": 2095
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/copyright_names.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "2e255e48e0f433577f5db5fc44283eb058ed497ab5cb88d2b4cfdbcdb0bd4d8b",
+      "size_in_bytes": 461
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/copyright_names.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "6717e0159184ed88547150264fa96f780de81eb696be4e5f99e0d6d868eccba5",
+      "size_in_bytes": 213
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/crawler.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "98b357b742ea022c98e6023099b01dd249f82a7aafcec137cabec6e15e2d3568",
+      "size_in_bytes": 2796
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/crawler.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "8e72260ba799985d71c3b24b61143908f3e8ac6b64cdc8bec9613e9f59f23719",
+      "size_in_bytes": 4290
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/licenses.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "e8dd84b95e23c394643ea17d6f7d16dc91a2c962bc219f43f4922ce614414b5d",
+      "size_in_bytes": 2041
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/licenses.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "7113afe4dd5081aabaab4a584bcccde33b3f1ad8f8f403aa62a60e63212ad61e",
+      "size_in_bytes": 2777
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/main.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "e975c4d3da04b209a0af6211e6519b24ed65a2ea51e37ac68e56ada52934a63a",
+      "size_in_bytes": 10808
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/main.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "309fa4c944ec7e946c9002e95108607187a7e6f87e0073248d1e942e918e6dda",
+      "size_in_bytes": 18005
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/parser.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "611eaf80a023fd2d7a547e13200b2de42cb40a185b01f42446c2017da0363205",
+      "size_in_bytes": 7852
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/parser.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "901e65f1abf089f9cee4f095eee544485bf2aa6b28c06f234f62972cc2e38a26",
+      "size_in_bytes": 11625
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/pytest_marker.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "fcef0ad0bad48366a7df621193212dbc8bd6a19ed1d9e078c85ce89d57030172",
+      "size_in_bytes": 651
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/__pycache__/pytest_marker.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "f5d2132bcf5bd1680b701caccbf1a86401b7e13cb6269d375cb6522110cd241a",
+      "size_in_bytes": 436
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/copyright_names.py",
+      "path_type": "hardlink",
+      "sha256": "4c7ba840821063f50d32836588c1382f7249c7526adf42c0c59ff69f3699ae9e",
+      "size_in_bytes": 789
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/crawler.py",
+      "path_type": "hardlink",
+      "sha256": "b7410180b6afeed77d7a660f67bbc293811ea89a9fc542dcc9870112e987e68f",
+      "size_in_bytes": 3456
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/licenses.py",
+      "path_type": "hardlink",
+      "sha256": "33f9570db6acc5c6070002dc93e16be98c40b47e0f4969328ce0f6dcd009e617",
+      "size_in_bytes": 3519
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/main.py",
+      "path_type": "hardlink",
+      "sha256": "342bb3684dcd8fba7028b585e0da286c0560c5cc28cc22f97284ee3ac03cca57",
+      "size_in_bytes": 16115
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/parser.py",
+      "path_type": "hardlink",
+      "sha256": "6297955901076a296c1195f09d73b9809f9ff96452074dc6343dc6ce3ee46f90",
+      "size_in_bytes": 8798
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/pytest_marker.py",
+      "path_type": "hardlink",
+      "sha256": "a8944ffee3a9a0fcf1efdc7b3b2ce6549ff791381508421c60aed8c23b212d2c",
+      "size_in_bytes": 798
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/apache2_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "9c66ec8c61a1db4d279345a77450fd13daba2ad3dfd91c747a6dab70bffeb38c",
+      "size_in_bytes": 633
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/apache2_header.txt",
+      "path_type": "hardlink",
+      "sha256": "94816b27a6913229d3dfa736ad6e8a592bba98643b63eadb022b34adfc9743a1",
+      "size_in_bytes": 536
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/apache2_license.txt",
+      "path_type": "hardlink",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size_in_bytes": 11358
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/boost1_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "b7f6fabf1b85f15a40b1e09418fdec60da512f7de2fbee0bfa6df58b0ce1431f",
+      "size_in_bytes": 176
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/boost1_header.txt",
+      "path_type": "hardlink",
+      "sha256": "90b829f5f34e249cda7ff4d4f521b6925b37f88df9d7f0ad60fc0dcd2b366292",
+      "size_in_bytes": 1351
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/boost1_license.txt",
+      "path_type": "hardlink",
+      "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566",
+      "size_in_bytes": 1338
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd2_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "ea14ec29e3fdb339cc9d73217f80ef31b198372b912f12c6a3a38b50399feb78",
+      "size_in_bytes": 162
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd2_header.txt",
+      "path_type": "hardlink",
+      "sha256": "80215056b29f1cfd7e5fe81d0e304a8530103ef101bd0044b9ec3460d5c98a2d",
+      "size_in_bytes": 1521
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd2_license.txt",
+      "path_type": "hardlink",
+      "sha256": "ae42f8149e6911748be854d45baf96740dee6d721f20eba8c93a449e3b1b3dd9",
+      "size_in_bytes": 1511
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd_2clause_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "c42759f567fc3a8312dd1f32ebf37bd9ef67befd1f805fbf670b82d8596b57f4",
+      "size_in_bytes": 178
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd_2clause_header.txt",
+      "path_type": "hardlink",
+      "sha256": "fb6819fd789831986587321e4764e6a6c4900f3450670da0f1e385da4b5e2ebc",
+      "size_in_bytes": 1343
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd_2clause_license.txt",
+      "path_type": "hardlink",
+      "sha256": "3b1ca6b006c564e536f4a8197899480eee73575219c929eb203368463c8365c1",
+      "size_in_bytes": 1331
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd_3clause_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "023ab43add95681790f19b966f7a6bce4adb86f0e6b6e7cfd59015575b3be4fb",
+      "size_in_bytes": 167
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd_3clause_header.txt",
+      "path_type": "hardlink",
+      "sha256": "a6a55fcc371fa930b3dfb89514cc7000891b8036c3d099d6946f4567bfd6e658",
+      "size_in_bytes": 1474
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd_3clause_header_0.txt",
+      "path_type": "hardlink",
+      "sha256": "f607858192961785740c0aa60f2c41ad4da596fcc10c035e07334be0ba655ea6",
+      "size_in_bytes": 171
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/bsd_3clause_license.txt",
+      "path_type": "hardlink",
+      "sha256": "143077f9f6a8de5a99f78c2c2472801fb53cf240277ef661642f079b9acdfff8",
+      "size_in_bytes": 1459
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/gplv3_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "d464330119d28706180795cbb4c76b028faae3bffefa27592a1b70acc3be35b7",
+      "size_in_bytes": 168
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/gplv3_header.txt",
+      "path_type": "hardlink",
+      "sha256": "b1e3fe0a62fb144a73f507c7cb49b72aeb91d83d23351cc23eb763a9b2e196d5",
+      "size_in_bytes": 626
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/gplv3_license.txt",
+      "path_type": "hardlink",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size_in_bytes": 35149
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/lgplv3_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "d0dcdd3ffd788475d7ce268f75328da4dcec2dcfeda08e810f3d1dd827da341b",
+      "size_in_bytes": 176
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/lgplv3_header.txt",
+      "path_type": "hardlink",
+      "sha256": "36632bca13edd42bc675df427661ff3a8a9285e7056b82aea86eaa30c3e6586e",
+      "size_in_bytes": 647
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/lgplv3_license.txt",
+      "path_type": "hardlink",
+      "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+      "size_in_bytes": 7652
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/mit0_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "c3659c34982e1b133293940aed658be61215cebdf46c4497124439a48e4664a1",
+      "size_in_bytes": 153
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/mit0_header.txt",
+      "path_type": "hardlink",
+      "sha256": "43ef93514ed050e3cd71536c897ef59ddd838ba601981772df97d5f5dcdbb8be",
+      "size_in_bytes": 871
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/mit0_license.txt",
+      "path_type": "hardlink",
+      "sha256": "76fbad0c242302aa8c09159cc637c7f8e3e739a105408c726877ec02c45af231",
+      "size_in_bytes": 858
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/mit_contributing.txt",
+      "path_type": "hardlink",
+      "sha256": "9d2d4cca33a44809e9f8af34a78a311f8247fdc593ee9cc6f2246f9d3ab740c3",
+      "size_in_bytes": 149
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/mit_header.txt",
+      "path_type": "hardlink",
+      "sha256": "68d08bfc9b126caf5b65c7530d8b4892f78bbaade34bc744aa15a289487c076d",
+      "size_in_bytes": 1036
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/mit_header_0.txt",
+      "path_type": "hardlink",
+      "sha256": "d322ae3d444de20b62b546a3a5d7c2aa958e4206f4ce43132393c40497084324",
+      "size_in_bytes": 154
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_copyright/template/mit_license.txt",
+      "path_type": "hardlink",
+      "sha256": "e4da13b8ee8adf3c184f3cfaa765c1b002efd9e1b7a200fe7c507a30391f8fb9",
+      "size_in_bytes": 1023
+    },
+    {
+      "_path": "share/ament_copyright/package.xml",
+      "path_type": "hardlink",
+      "sha256": "88c96cbf7fe8e28f77c18e644ddea1e712df026a4283255449fac4ee0aa51f08",
+      "size_in_bytes": 965
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_copyright",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    }
+  ],
+  "paths_version": 1
+}

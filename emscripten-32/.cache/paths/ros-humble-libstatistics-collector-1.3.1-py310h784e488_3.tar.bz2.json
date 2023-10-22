@@ -1,0 +1,199 @@
+{
+  "paths": [
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/collector/collector.hpp",
+      "path_type": "hardlink",
+      "sha256": "ef3e4d0d5ebbeb3e9748f733c3ad7274bf4d83a1941011ebdaa8511935e9071d",
+      "size_in_bytes": 4123
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/collector/generate_statistics_message.hpp",
+      "path_type": "hardlink",
+      "sha256": "6b9a72b6f2383c8e5a557a54b47c8acc56ec05acdd0c574c9cd689c87fcc3a0a",
+      "size_in_bytes": 2163
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/collector/metric_details_interface.hpp",
+      "path_type": "hardlink",
+      "sha256": "d28fcceb305a01a5bc10569773a923d6cbf6225f0c8d35bfbdab0a33e574fbac",
+      "size_in_bytes": 1637
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/moving_average_statistics/moving_average.hpp",
+      "path_type": "hardlink",
+      "sha256": "7ffe3a88320aadd8aafca51e587ef162a2d5f01a2b7f96ab9f9606390743f14f",
+      "size_in_bytes": 4990
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/moving_average_statistics/types.hpp",
+      "path_type": "hardlink",
+      "sha256": "08450f162022c09354d4dfb389dc71082f619901af8db8f31a4aa666fd068802",
+      "size_in_bytes": 1993
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/topic_statistics_collector/constants.hpp",
+      "path_type": "hardlink",
+      "sha256": "8caba7d95c41b4c77b8fd1f2e2662a2312399f4f83d66cb6b1ef52d407e8cd73",
+      "size_in_bytes": 1449
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/topic_statistics_collector/received_message_age.hpp",
+      "path_type": "hardlink",
+      "sha256": "8a1c6b0ae1ee28050b8b1b74c5c7c433a7650c634dff1aa6792060ebf8fdaa1d",
+      "size_in_bytes": 4558
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/topic_statistics_collector/received_message_period.hpp",
+      "path_type": "hardlink",
+      "sha256": "f14605aa2cf7e7f055e1591a45030116faaf379b7862d70c99cae11532aaac5d",
+      "size_in_bytes": 3958
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/topic_statistics_collector/topic_statistics_collector.hpp",
+      "path_type": "hardlink",
+      "sha256": "d605c22c13889d81f55cb8e23803986f8d655f415893ce0a354ff4d04744610a",
+      "size_in_bytes": 2034
+    },
+    {
+      "_path": "include/libstatistics_collector/libstatistics_collector/visibility_control.hpp",
+      "path_type": "hardlink",
+      "sha256": "f3ff92a1f3334409a8ccf052a7ad13b653e11935b0b3c50d40e28a658b95ad03",
+      "size_in_bytes": 1958
+    },
+    {
+      "_path": "lib/liblibstatistics_collector.a",
+      "path_type": "hardlink",
+      "sha256": "108b99078f28e4a74341e658f10841411e8eaab3eafabcaccab1d559b3b6ed85",
+      "size_in_bytes": 23746
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/libstatistics_collector",
+      "path_type": "hardlink",
+      "sha256": "76f28cb5af42527681e773e3b8f68210492cbe0b02bf315dfefd323bf84cad31",
+      "size_in_bytes": 157
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/libstatistics_collector",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/libstatistics_collector",
+      "path_type": "hardlink",
+      "sha256": "d4bf31a5f914a77a2161b53941d51616a31542c25e30daabd52cb0191f473427",
+      "size_in_bytes": 117
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/ament_cmake_export_dependencies-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "16f8aa6ce9825b2a702bc0923b0fe6080c78298e4d950470cdb2e3bea0833bfe",
+      "size_in_bytes": 4259
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/ament_cmake_export_include_directories-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "373553d77452f3ce308cf491c395bac421ecc51e45217ce6ff72ef7415fcc6f5",
+      "size_in_bytes": 845
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/ament_cmake_export_libraries-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "9e481dbfc46ad724299651633ec725f13731a413ded1f5dc76aebd828666a533",
+      "size_in_bytes": 5239
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/ament_cmake_export_targets-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "14ccf12a4a41f0be2b3f657b44f1509e29d17bdc055d01ddde22da3e84925d13",
+      "size_in_bytes": 1007
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/libstatistics_collectorConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "d0286bfee607504545db35ec881dd0b77ad2e70b421246ed90f2820439cc2850",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/libstatistics_collectorConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "beea6c485c8b58d0a3ee79f64c2d3d30c9120ddcbddb35bd902099033f2d5a5f",
+      "size_in_bytes": 1602
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/libstatistics_collectorExport-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "d243c6cda9b698a8fe4c51626fd913ca66b1420df358e4d37549cd2bae85ca6f",
+      "size_in_bytes": 1047
+    },
+    {
+      "_path": "share/libstatistics_collector/cmake/libstatistics_collectorExport.cmake",
+      "path_type": "hardlink",
+      "sha256": "939b903dcbc51695552e5a22c99f2397a27aa57b09f5b05fd81497882985e01a",
+      "size_in_bytes": 5408
+    },
+    {
+      "_path": "share/libstatistics_collector/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/libstatistics_collector/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/libstatistics_collector/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/libstatistics_collector/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/libstatistics_collector/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/libstatistics_collector/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "7c3f664258d64875a460c244a3117d91a6c6c4f7e135a1e83315a37e0702ea09",
+      "size_in_bytes": 127
+    },
+    {
+      "_path": "share/libstatistics_collector/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-libstatistics-collector-0_1697460554428/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+      "sha256": "ac860ef10cb08399a17aa764fa1cf7b5f42f4528b7ea04106f9f065cc2d62ba4",
+      "size_in_bytes": 5251
+    },
+    {
+      "_path": "share/libstatistics_collector/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/libstatistics_collector/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "6d26f7070b8a953d4a807d5735b8109a208f74723112de2dda5283599d921179",
+      "size_in_bytes": 212
+    },
+    {
+      "_path": "share/libstatistics_collector/package.xml",
+      "path_type": "hardlink",
+      "sha256": "9f6b966c67ec06bf322758f0f1aaade20b8198bc4dfee9e5749050e62516370a",
+      "size_in_bytes": 1229
+    }
+  ],
+  "paths_version": 1
+}

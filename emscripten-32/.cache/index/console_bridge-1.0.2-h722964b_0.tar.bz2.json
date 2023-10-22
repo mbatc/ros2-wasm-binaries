@@ -1,0 +1,1 @@
+{"build": "h722964b_0", "build_number": 0, "depends": ["emscripten-abi 3.1.27.*"], "name": "console_bridge", "subdir": "emscripten-32", "timestamp": 1697029373794, "version": "1.0.2", "size": 15821, "md5": "6c184ada7776bc14eb57be0c44418899", "sha256": "5d4c71000c741239a843d883db66bad121048973623b4ab209ccc9d9e1f217df"}

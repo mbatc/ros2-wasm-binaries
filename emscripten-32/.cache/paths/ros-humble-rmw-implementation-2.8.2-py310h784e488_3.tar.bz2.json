@@ -1,0 +1,121 @@
+{
+  "paths": [
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/rmw_implementation",
+      "path_type": "hardlink",
+      "sha256": "72b6fa9548d2bbb0ce9e971eef71e7b878ae179e64b65070377987c424d820d9",
+      "size_in_bytes": 135
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/rmw_implementation",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/rmw_implementation",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/ament_index/resource_index/rmw_typesupport/rmw_implementation",
+      "path_type": "hardlink",
+      "sha256": "4a2ac8c649b753e89c5c619cf94427fbb8145df3ac709afa64ee8453e29abaa1",
+      "size_in_bytes": 43
+    },
+    {
+      "_path": "share/ament_index/resource_index/rmw_typesupport_c/rmw_implementation",
+      "path_type": "hardlink",
+      "sha256": "e4818ecd623601f4f1ecefb73cba98ecb3aee68f3ffe105a190187f5716bf123",
+      "size_in_bytes": 20
+    },
+    {
+      "_path": "share/ament_index/resource_index/rmw_typesupport_cpp/rmw_implementation",
+      "path_type": "hardlink",
+      "sha256": "7a1865d6e3d32feda8727705ae4b74bbc04e8eaa69e0f008f63bfb68e0caefe4",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "share/rmw_implementation/cmake/rmw_implementation-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "68b9fae7082d15a77b1527eaee4c95ffd6080cf8bb4d9681742fb631d96c4a65",
+      "size_in_bytes": 3085
+    },
+    {
+      "_path": "share/rmw_implementation/cmake/rmw_implementationConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "dfd82e246479e1d63028e9d28294935cd6bfe4f2dc6496f8f730cb66ab6635f9",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/rmw_implementation/cmake/rmw_implementationConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "d9777d884359327cb09f97d5519b6a8e5705b9770cab47e340eae7a44b7058ef",
+      "size_in_bytes": 1390
+    },
+    {
+      "_path": "share/rmw_implementation/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rmw_implementation/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/rmw_implementation/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rmw_implementation/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/rmw_implementation/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/rmw_implementation/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "4404810e37d0d2b0b61648467e44bb37eb71264d9a93162df255183875b7b92d",
+      "size_in_bytes": 117
+    },
+    {
+      "_path": "share/rmw_implementation/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rmw-implementation-0_1697266267375/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+      "sha256": "111480b3dc8f6deb94514610f71153825901877e23cad43f7a65c5e6ec87b1b7",
+      "size_in_bytes": 5241
+    },
+    {
+      "_path": "share/rmw_implementation/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/rmw_implementation/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "46fabf568462aa80c12edc6bf83d2be10ee5b6009b573d969442b10ba1f843f7",
+      "size_in_bytes": 192
+    },
+    {
+      "_path": "share/rmw_implementation/package.xml",
+      "path_type": "hardlink",
+      "sha256": "9c6fd632e0010e730bbb374f13c06a9ac7c54c75acda9e182a12ee66a381ddf9",
+      "size_in_bytes": 1685
+    }
+  ],
+  "paths_version": 1
+}

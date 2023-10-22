@@ -1,0 +1,237 @@
+{
+  "paths": [
+    {
+      "_path": "include/rclc/action_client.h",
+      "path_type": "hardlink",
+      "sha256": "479142c53596a9f1ec742b9ca97b59c908ab7d7a79caf7ee7624f027ad5f4ee0",
+      "size_in_bytes": 4927
+    },
+    {
+      "_path": "include/rclc/action_goal_handle.h",
+      "path_type": "hardlink",
+      "sha256": "6d79c8abe0759a58a7a2daae9f739cde00661c293ecd835872569d160c4fe00c",
+      "size_in_bytes": 2076
+    },
+    {
+      "_path": "include/rclc/action_server.h",
+      "path_type": "hardlink",
+      "sha256": "af202cb2995814a8393a4d5fc05971c81666a2668b732be9223a5aa8a6046ee8",
+      "size_in_bytes": 4701
+    },
+    {
+      "_path": "include/rclc/client.h",
+      "path_type": "hardlink",
+      "sha256": "450de38f33ad8ab584ec7c75f49eabd205fff3a78de3e4557948a23f04358e3a",
+      "size_in_bytes": 3428
+    },
+    {
+      "_path": "include/rclc/executor.h",
+      "path_type": "hardlink",
+      "sha256": "681281aeaff30a3b36f163ed33cb1c2a6b9aeedd22acca941f24b646e46ce485",
+      "size_in_bytes": 35003
+    },
+    {
+      "_path": "include/rclc/executor_handle.h",
+      "path_type": "hardlink",
+      "sha256": "7d76ef8f36ef1b63a0850ac1cf13a634efd2329214db0ee3a877dc3989056234",
+      "size_in_bytes": 10009
+    },
+    {
+      "_path": "include/rclc/init.h",
+      "path_type": "hardlink",
+      "sha256": "2ffe443991dffbba6043741c544139ea43ed88ed1f68d8ceba0bea40784811ec",
+      "size_in_bytes": 3320
+    },
+    {
+      "_path": "include/rclc/node.h",
+      "path_type": "hardlink",
+      "sha256": "e5ed22af18adba75645be1a3c3d7093bc1ae93e61f9268b36c49cc9c787c4bc4",
+      "size_in_bytes": 2333
+    },
+    {
+      "_path": "include/rclc/publisher.h",
+      "path_type": "hardlink",
+      "sha256": "1eb0328c061e5b948eaefc73ae1def0cc27f1c8eef229ee4edd27afb6769b81b",
+      "size_in_bytes": 3481
+    },
+    {
+      "_path": "include/rclc/rclc.h",
+      "path_type": "hardlink",
+      "sha256": "59693b11f5b17891b0c493b7bd761b3d6155dbe54825f0f60e9202e820513d66",
+      "size_in_bytes": 1272
+    },
+    {
+      "_path": "include/rclc/service.h",
+      "path_type": "hardlink",
+      "sha256": "4f54ba4854557e4ed8d7797658fe072359a1b9f42d461e0986a9f2ebc2d19b70",
+      "size_in_bytes": 3441
+    },
+    {
+      "_path": "include/rclc/sleep.h",
+      "path_type": "hardlink",
+      "sha256": "65e798727ee4c03acd7a7af136f5d6d726df29ed37e18b3d1469d8cc44ec1772",
+      "size_in_bytes": 1262
+    },
+    {
+      "_path": "include/rclc/subscription.h",
+      "path_type": "hardlink",
+      "sha256": "141825ef3edd66a938b37cc0a6ab95e5250dbf791f2da976fef72c6d8c10e919",
+      "size_in_bytes": 3440
+    },
+    {
+      "_path": "include/rclc/timer.h",
+      "path_type": "hardlink",
+      "sha256": "caf9a94d9c7f340cf24f23b37c97bec5ed055e0bbcd34878a04c218672e03b1a",
+      "size_in_bytes": 1715
+    },
+    {
+      "_path": "include/rclc/types.h",
+      "path_type": "hardlink",
+      "sha256": "5d4d0a758a202b9ea11fc275a28e29d2e9003a2a3e9461589934a30c9da8bb19",
+      "size_in_bytes": 1700
+    },
+    {
+      "_path": "include/rclc/visibility_control.h",
+      "path_type": "hardlink",
+      "sha256": "230f1712bcc78543833983970ebf9e3619e0849ec346db083a09a776f7b33585",
+      "size_in_bytes": 1708
+    },
+    {
+      "_path": "lib/librclc.a",
+      "path_type": "hardlink",
+      "sha256": "467fab0455efcf5263c50f6f16a6a1a85eeb8e1b5eeeae9033351b5734ff4c84",
+      "size_in_bytes": 135268
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/rclc",
+      "path_type": "hardlink",
+      "sha256": "b2fb36873dec64cf64d3fe91f3fbfbfaa5a0857d1defb6fc4da1ab0468b0a39b",
+      "size_in_bytes": 209
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/rclc",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/rclc",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/rclc/cmake/ament_cmake_export_dependencies-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "bf17b75e2bc132ce3c4b85f2133ab6c33c892bb0a882bb1db466dd22e0eacab5",
+      "size_in_bytes": 3956
+    },
+    {
+      "_path": "share/rclc/cmake/ament_cmake_export_include_directories-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "8e631c10dccd9f7b4d6142665ca049900aaa0d356ff82038328b433bfd0aedb4",
+      "size_in_bytes": 745
+    },
+    {
+      "_path": "share/rclc/cmake/ament_cmake_export_libraries-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "0cac36cd2c35c0ab65ec512b85e0b620a4612500f8ad3232d759a158be57c8cf",
+      "size_in_bytes": 4902
+    },
+    {
+      "_path": "share/rclc/cmake/ament_cmake_export_targets-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "060d1e741bedc8f9583e5d0c87f5dd206f6b2e7478f660c7fab6e7f65d71b1c7",
+      "size_in_bytes": 950
+    },
+    {
+      "_path": "share/rclc/cmake/rclcConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "d8ae72b67ec61a99182caf973261913d63b88b1bae7830a3577da27446cc4953",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/rclc/cmake/rclcConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "68ceb9b40be5e42e64591d7de1717cd7a11927cedc710833be6b2091b9c0cfa6",
+      "size_in_bytes": 1355
+    },
+    {
+      "_path": "share/rclc/cmake/rclcExport-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "fb67988c99560c9153eff041573a9fb22fe897f4793fb4fbaf32aec64e9c1bc4",
+      "size_in_bytes": 817
+    },
+    {
+      "_path": "share/rclc/cmake/rclcExport.cmake",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rclc-0_1697465627294/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "eb64fc61ed06a1c5825ed9366594538e6fb36b243d75752a6cfb4d8a6c57837e",
+      "size_in_bytes": 4383
+    },
+    {
+      "_path": "share/rclc/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rclc/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/rclc/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rclc/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/rclc/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/rclc/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "7ed7871d0805ceb6edf2cd8a8fbc1673cb765efb13be590a3a4d57da8a84af3b",
+      "size_in_bytes": 89
+    },
+    {
+      "_path": "share/rclc/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rclc-0_1697465627294/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "d9a706f05a93ddd8c9a5d20a0e393596d17f93145d3cad2144297da6050b9259",
+      "size_in_bytes": 5213
+    },
+    {
+      "_path": "share/rclc/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/rclc/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "48ee25e96282537d921734f63ea64a11e5e37ae28c95a6ac15a33d74e1a94497",
+      "size_in_bytes": 136
+    },
+    {
+      "_path": "share/rclc/package.xml",
+      "path_type": "hardlink",
+      "sha256": "a88bd8be668bf11e8f705e3a6cee71b36b722f766bbaf196d1a3b6f0527fb716",
+      "size_in_bytes": 1617
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,1 @@
+{"build": "h9e12842_0", "build_number": 0, "depends": ["emscripten-abi 3.1.27.*"], "name": "pcre", "subdir": "emscripten-32", "timestamp": 1697021621340, "version": "8.45", "size": 516495, "md5": "3f88df72732ee44c9044f2b401a8b858", "sha256": "67dcd9c82df102fd01bfcdd957b9ab08822a2b47de8a9902aa11a54faf6982f6"}

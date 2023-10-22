@@ -1,0 +1,115 @@
+{
+  "paths": [
+    {
+      "_path": "share/ament_cmake_uncrustify/cmake/ament_cmake_uncrustify-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "3696a1f28207d02d02529ec542b7ffd4e764b5fb1092f80a5197cf3d5f96f504",
+      "size_in_bytes": 905
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/cmake/ament_cmake_uncrustifyConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "cf13be9ebb4a62c33ce70d339e3d71c26d8d7f7d28f0daecfab6a72ca4887109",
+      "size_in_bytes": 433
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/cmake/ament_cmake_uncrustifyConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "7661494453b86fc81f924deda15176549da5666c6aeb446578c7d4d64886b0cb",
+      "size_in_bytes": 1447
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/cmake/ament_cmake_uncrustify_lint_hook.cmake",
+      "path_type": "hardlink",
+      "sha256": "4cae95548e47299a3c33a29b405c5033022f830da400b779c9872b16cf44e3c4",
+      "size_in_bytes": 1377
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/cmake/ament_uncrustify.cmake",
+      "path_type": "hardlink",
+      "sha256": "28f2099a95242b4503b17939697c3f45772257a1aeb921ef2102d34cc2967668",
+      "size_in_bytes": 2991
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "715e0fea632986e889ae0540eb9f7ed1f78e7885144f816d226389c55ec99893",
+      "size_in_bytes": 125
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-cmake-uncrustify-0_1697351765154/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+      "sha256": "64dc6db039f73ab7e676aae9e719e9363eb2607751086cfe4fbba6088c11ad90",
+      "size_in_bytes": 5249
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "801e22872625a6e26fc10c490ba46d57da4c87a865aaa90048f25e595eff4cca",
+      "size_in_bytes": 208
+    },
+    {
+      "_path": "share/ament_cmake_uncrustify/package.xml",
+      "path_type": "hardlink",
+      "sha256": "9936211b3d5359d4762db4f263fc53011a4299b05f522c796dda341024b565f1",
+      "size_in_bytes": 1122
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/ament_cmake_uncrustify",
+      "path_type": "hardlink",
+      "sha256": "4ec2383ebebe4f53a7c6efdd5e6edc51833e838385068db184b60402383fd71a",
+      "size_in_bytes": 78
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_cmake_uncrustify",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/ament_cmake_uncrustify",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    }
+  ],
+  "paths_version": 1
+}

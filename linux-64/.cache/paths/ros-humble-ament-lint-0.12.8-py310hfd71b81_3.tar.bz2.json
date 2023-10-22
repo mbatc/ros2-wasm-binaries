@@ -1,0 +1,107 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "44cc11aeb934110de163d48d67fa51a9384871d606135b0fae18c69a1ae99184",
+      "size_in_bytes": 753
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "9dbf8d03e5ea5cc95f2fc0d5c883e6d21bb79c99571c0e4f340158c77197ca48",
+      "size_in_bytes": 1270
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "cabe69c1f802da5872a4d5e86bc8d71a186f8af85fda2839d1ce4bd131394bb7",
+      "size_in_bytes": 163
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "d449aea36583ddfd9224e2f6504c894dc9533678890d15dcab0644c35f4acd0b",
+      "size_in_bytes": 49
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "f906ecc52d080c617cf62dcf4832b494ae450b7f85d0ee2f9e858db7351bc4ee",
+      "size_in_bytes": 11
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint-0.12.8.dist-info/zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "12ace22c2378b5a587e4a0ddc717b2ceec39096d6eded7dff25ef01da5709df0",
+      "size_in_bytes": 403
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a85734aa49aa3d151fa08ac576f7f6774bdaf0218590c2159049d9f5d7194fc9",
+      "size_in_bytes": 148
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__pycache__/pytest_marker.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "6e5f98250048d6ec285d099a3c748420fb0d7a38dd085f00ff1f394a3c1686ed",
+      "size_in_bytes": 593
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/__pycache__/pytest_marker.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "b72942d5d636ddf83d6e4d8bb516ebe5cc3c8b17cd2d34f9cea2ed2dedbf04dd",
+      "size_in_bytes": 380
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_lint/pytest_marker.py",
+      "path_type": "hardlink",
+      "sha256": "5a7fb1a31dee7797c0145e4b5f9896c5628914e0bdf82af2a03ff524a135a0a8",
+      "size_in_bytes": 712
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_lint",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_lint/package.xml",
+      "path_type": "hardlink",
+      "sha256": "2efcae54416b419d866138ad4d43032f1db8b02b69a9a9f80bb15e5e507446ac",
+      "size_in_bytes": 705
+    }
+  ],
+  "paths_version": 1
+}

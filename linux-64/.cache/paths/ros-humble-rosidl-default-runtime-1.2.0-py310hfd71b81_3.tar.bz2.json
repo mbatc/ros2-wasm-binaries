@@ -1,0 +1,103 @@
+{
+  "paths": [
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/rosidl_default_runtime",
+      "path_type": "hardlink",
+      "sha256": "ffdef7d622a9e8ed26c71edcc87f8019e20ed36f288362b00f6a537eb84cb29b",
+      "size_in_bytes": 267
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/rosidl_default_runtime",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/rosidl_default_runtime",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/rosidl_default_runtime/cmake/rosidl_default_runtime-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "e78f7381671de96ab330735f8f358a014d1abddddc4c9f4eb8bac01a1a38b85c",
+      "size_in_bytes": 905
+    },
+    {
+      "_path": "share/rosidl_default_runtime/cmake/rosidl_default_runtimeConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "40644c1a9718b2df4d91f4fc8f8c7e5104e9542aa106df80f0042b7fba127da5",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/rosidl_default_runtime/cmake/rosidl_default_runtimeConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "c9ab4727770f19a6461f47a3697e37b6ebbb60e1b9b6b1bff883ca7e2566c8f5",
+      "size_in_bytes": 1446
+    },
+    {
+      "_path": "share/rosidl_default_runtime/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rosidl_default_runtime/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/rosidl_default_runtime/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/rosidl_default_runtime/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/rosidl_default_runtime/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/rosidl_default_runtime/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "a5ee6134cd0e12603f8d1e099f2ebea080ef084f6cefff7861a9e1c19e40cb21",
+      "size_in_bytes": 125
+    },
+    {
+      "_path": "share/rosidl_default_runtime/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-rosidl-default-runtime-0_1697351765154/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+      "sha256": "402a2ba4db882cfab591fbaee7666a9afe400e13c6cade358246b42368c62635",
+      "size_in_bytes": 5249
+    },
+    {
+      "_path": "share/rosidl_default_runtime/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/rosidl_default_runtime/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "b866f2a0c4806058e8a1c0c8c14d45ae6bdf24d9c7177bf597fae6ad046d0b02",
+      "size_in_bytes": 208
+    },
+    {
+      "_path": "share/rosidl_default_runtime/package.xml",
+      "path_type": "hardlink",
+      "sha256": "8eb2a5e370f7bfc865a3f54b62908407a1dd92b4a5b5f986d7065df2e5bb2718",
+      "size_in_bytes": 1825
+    }
+  ],
+  "paths_version": 1
+}

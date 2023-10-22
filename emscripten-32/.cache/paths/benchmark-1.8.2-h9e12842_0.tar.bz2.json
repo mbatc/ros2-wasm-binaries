@@ -1,0 +1,133 @@
+{
+  "paths": [
+    {
+      "_path": "include/benchmark/benchmark.h",
+      "path_type": "hardlink",
+      "sha256": "8ef82b9faf75ae9a99b26f4076f7621cce8dea24bfd941eaca61f438934707b9",
+      "size_in_bytes": 72385
+    },
+    {
+      "_path": "include/benchmark/export.h",
+      "path_type": "hardlink",
+      "sha256": "d2de28d4d9b82bfef5636ad2d88ac464e130a55b810f110c7f47203d6ba0d5e2",
+      "size_in_bytes": 1481
+    },
+    {
+      "_path": "lib/cmake/benchmark/benchmarkConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "c83f77b408d40a4326129a5afdea8e722073b90424d788bd24f8216750e611de",
+      "size_in_bytes": 541
+    },
+    {
+      "_path": "lib/cmake/benchmark/benchmarkConfigVersion.cmake",
+      "path_type": "hardlink",
+      "sha256": "f2721cff826d4aaa2a1770a60e75b47df8af4c95b663e995cc24b2d7b997733c",
+      "size_in_bytes": 2762
+    },
+    {
+      "_path": "lib/cmake/benchmark/benchmarkTargets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "59775b036c192d2f7dd3ccd78ff6476972d5a417afaed7e9df5f8a44a02272e0",
+      "size_in_bytes": 1415
+    },
+    {
+      "_path": "lib/cmake/benchmark/benchmarkTargets.cmake",
+      "path_type": "hardlink",
+      "sha256": "1e5dcc974a0f0cdc291025c3d887f19a38775bab113823aacd55f9efc8631a13",
+      "size_in_bytes": 4440
+    },
+    {
+      "_path": "lib/libbenchmark.a",
+      "path_type": "hardlink",
+      "sha256": "79d89cc5e5051e9d87813b400f57d722c068efef631936e03e797797a62923db",
+      "size_in_bytes": 509032
+    },
+    {
+      "_path": "lib/libbenchmark_main.a",
+      "path_type": "hardlink",
+      "sha256": "64fae207a7056786d9997a9733be8f92996cc6eee074787fb402e4a5dff87114",
+      "size_in_bytes": 1364
+    },
+    {
+      "_path": "lib/pkgconfig/benchmark.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/benchmark-0_1697022137487/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+      "sha256": "badcf964ffbafa95a58560949b1de99f37e5f948530833988010d8365129027f",
+      "size_in_bytes": 983
+    },
+    {
+      "_path": "share/doc/benchmark/AssemblyTests.md",
+      "path_type": "hardlink",
+      "sha256": "f3dd4d1ccb04e1836c00f3a7cfaf636610f5fde315fd91d7a808afd2fd9a96c3",
+      "size_in_bytes": 5324
+    },
+    {
+      "_path": "share/doc/benchmark/_config.yml",
+      "path_type": "hardlink",
+      "sha256": "a4e5e28a08cac7a435cd0b6a0f92b85795d485cf8e2f9022cccebeb3a7291c31",
+      "size_in_bytes": 28
+    },
+    {
+      "_path": "share/doc/benchmark/dependencies.md",
+      "path_type": "hardlink",
+      "sha256": "c7c64533f9352aa2520a15ddeb074bb9b2751962f702c45f7c7e668f78345e44",
+      "size_in_bytes": 543
+    },
+    {
+      "_path": "share/doc/benchmark/index.md",
+      "path_type": "hardlink",
+      "sha256": "8fa1ea40391734c90f2c61f2bdad8d51b248b432dec08a6e1d01f7545ceef4d9",
+      "size_in_bytes": 412
+    },
+    {
+      "_path": "share/doc/benchmark/perf_counters.md",
+      "path_type": "hardlink",
+      "sha256": "3d94fb31f0f0c206ed09fdc49ce360c449b592a7362ca3fab0785c0def39fa6c",
+      "size_in_bytes": 1567
+    },
+    {
+      "_path": "share/doc/benchmark/platform_specific_build_instructions.md",
+      "path_type": "hardlink",
+      "sha256": "daf7194cc2acecc7e12bc751d5572e9ac5f35eb37354bb837b8d45a8b3d749d7",
+      "size_in_bytes": 1997
+    },
+    {
+      "_path": "share/doc/benchmark/python_bindings.md",
+      "path_type": "hardlink",
+      "sha256": "69f8cb873b84fdff0e5d54f3ae01e439d3e26c3e23305be86c900986023daf43",
+      "size_in_bytes": 1442
+    },
+    {
+      "_path": "share/doc/benchmark/random_interleaving.md",
+      "path_type": "hardlink",
+      "sha256": "e68c0e88e2323b82c119b21417f925aab77d9017bbb615393d836da971f214ed",
+      "size_in_bytes": 647
+    },
+    {
+      "_path": "share/doc/benchmark/reducing_variance.md",
+      "path_type": "hardlink",
+      "sha256": "5113374fdebba959a1dbffcd3a51e985b03217ea74bd392a5979a180c31ca3a1",
+      "size_in_bytes": 3701
+    },
+    {
+      "_path": "share/doc/benchmark/releasing.md",
+      "path_type": "hardlink",
+      "sha256": "561847bc05f444d2ccc10b871b1e7ec6b16d07f8b8b8f547786072cf8607e2bb",
+      "size_in_bytes": 1351
+    },
+    {
+      "_path": "share/doc/benchmark/tools.md",
+      "path_type": "hardlink",
+      "sha256": "b97ec4fb4f78e1a96d4d00ba4d7191e83887b5f78741bf5c3a48842a145d480b",
+      "size_in_bytes": 12475
+    },
+    {
+      "_path": "share/doc/benchmark/user_guide.md",
+      "path_type": "hardlink",
+      "sha256": "1226f420ecd8353dcd494fe71ebedb3e7a66477886698af08b8d79e08fb671dd",
+      "size_in_bytes": 43746
+    }
+  ],
+  "paths_version": 1
+}

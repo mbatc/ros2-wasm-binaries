@@ -1,0 +1,115 @@
+{
+  "paths": [
+    {
+      "_path": "share/ament_cmake_lint_cmake/cmake/ament_cmake_lint_cmake-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "dbd20e40eb61b1b3b46fbe397e9b84a545328c81e904d088881b16c370572633",
+      "size_in_bytes": 905
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/cmake/ament_cmake_lint_cmakeConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "cf13be9ebb4a62c33ce70d339e3d71c26d8d7f7d28f0daecfab6a72ca4887109",
+      "size_in_bytes": 433
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/cmake/ament_cmake_lint_cmakeConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "179dc496b78a64e2c07a4cc1f2f710c086734d0bd6b1ec1d1846d75af6cf5fc4",
+      "size_in_bytes": 1447
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/cmake/ament_cmake_lint_cmake_lint_hook.cmake",
+      "path_type": "hardlink",
+      "sha256": "b170d4d5b435ec861e28310848bbb77398da49c13e757cc5b86eef9b58af3bf3",
+      "size_in_bytes": 798
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/cmake/ament_lint_cmake.cmake",
+      "path_type": "hardlink",
+      "sha256": "40aef95a239d08fc525d3b72f335d5379bd50a266a7a596171ca38a148212f5c",
+      "size_in_bytes": 2031
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "a41698fcf8f18bc616691400b392c699bd0979627c54f2a87a07dfb9aa0c7194",
+      "size_in_bytes": 125
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-cmake-lint-cmake-0_1697024441805/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+      "sha256": "46383c0beffc88f006f35954cd6588682e93eb525e93e8f15fee4b60e6ffccfd",
+      "size_in_bytes": 5249
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "8a13cd1823d555fbb9e151f0fdf155112230b5382ac9ed5d6da1ae2158af2cfa",
+      "size_in_bytes": 208
+    },
+    {
+      "_path": "share/ament_cmake_lint_cmake/package.xml",
+      "path_type": "hardlink",
+      "sha256": "1c9734058b546594e33618b88c0fdb4284043832dfbe430fb2b23f50f6457eb0",
+      "size_in_bytes": 1049
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/ament_cmake_lint_cmake",
+      "path_type": "hardlink",
+      "sha256": "5980d94c9f928ce19839f53da6fa22d6340f17e3b4d3b5837c57d2a97e85a9b9",
+      "size_in_bytes": 33
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_cmake_lint_cmake",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/ament_cmake_lint_cmake",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    }
+  ],
+  "paths_version": 1
+}

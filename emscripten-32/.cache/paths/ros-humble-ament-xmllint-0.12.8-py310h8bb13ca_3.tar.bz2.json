@@ -1,0 +1,115 @@
+{
+  "paths": [
+    {
+      "_path": "bin/ament_xmllint",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-ament-xmllint-0_1697024441805/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+      "sha256": "89eec084a8c75c0b10f73cdf67d3d675fad488686fc4c710b878530be9b5e5ee",
+      "size_in_bytes": 500
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "4b2866f71616cc4f8d324ef8655484b336b54684f4c7a36e50ceb66bfc58efa5",
+      "size_in_bytes": 764
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "3642b7222b2523077e2dbcd5427c8a380a5318982d20db5017f64b6767c5351e",
+      "size_in_bytes": 1529
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "af1d8c0df3dce22c482a85e6a920fb730950abe533b46453e8b8d359afa58a7d",
+      "size_in_bytes": 169
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "7d1fbc6601aad3e38bf77dc6789fc91d1d74854da0a36f97d13729f49facb735",
+      "size_in_bytes": 114
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "b2159375a26ffe3ca32f62ce7493711e3233eec35e22c573cf5387e8736b8175",
+      "size_in_bytes": 14
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint-0.12.8.dist-info/zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint/__pycache__/__init__.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "58196edc5d366bc7f0416b10b2fc32b55f31d4a76b52dc6c37d787bfcb64a6a9",
+      "size_in_bytes": 147
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint/__pycache__/main.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "8ce1b334bbf3440afff9d192f73cf93fa43e4f99edc6f081d60a6f6041dafc2e",
+      "size_in_bytes": 6960
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint/__pycache__/pytest_marker.cpython-310.pyc",
+      "path_type": "hardlink",
+      "sha256": "61416e12562e3ef2dba11c0616ab333cbed117c7ce5b0c51b3192ae392a1e542",
+      "size_in_bytes": 374
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint/main.py",
+      "path_type": "hardlink",
+      "sha256": "859f3ec80f4e434ec38157db3fc41677b8d623b8f0c08402d4fb460a531f1b12",
+      "size_in_bytes": 8808
+    },
+    {
+      "_path": "lib/python3.10/site-packages/ament_xmllint/pytest_marker.py",
+      "path_type": "hardlink",
+      "sha256": "cdf7c2b79b4b70124a809128022832ecf50bea60960ae38bce916c0fa5c841c4",
+      "size_in_bytes": 760
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/ament_xmllint",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_xmllint/package.xml",
+      "path_type": "hardlink",
+      "sha256": "49c16d5367957885abe7169047f19fd597abcf7b1b2a16367a1137b3e445b256",
+      "size_in_bytes": 1031
+    }
+  ],
+  "paths_version": 1
+}

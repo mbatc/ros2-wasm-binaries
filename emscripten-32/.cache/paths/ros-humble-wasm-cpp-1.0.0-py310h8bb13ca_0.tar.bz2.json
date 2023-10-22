@@ -1,0 +1,175 @@
+{
+  "paths": [
+    {
+      "_path": "include/wasm_cpp/context.hpp",
+      "path_type": "hardlink",
+      "sha256": "468dee311e0c67d276b4fbc3fbc9dc15049754e602c1f4a501fcd6b7ab899516",
+      "size_in_bytes": 1328
+    },
+    {
+      "_path": "include/wasm_cpp/guard_condition.hpp",
+      "path_type": "hardlink",
+      "sha256": "a68feb05d56620ae89802142207baf3a5d92c2d8a3badc45660809d3fac9e33f",
+      "size_in_bytes": 628
+    },
+    {
+      "_path": "include/wasm_cpp/init.hpp",
+      "path_type": "hardlink",
+      "sha256": "5af88e7c56ef5c7b4b6bccac78e117a3dc38310ec313dfee99ccb4d855d7259c",
+      "size_in_bytes": 340
+    },
+    {
+      "_path": "include/wasm_cpp/participant.hpp",
+      "path_type": "hardlink",
+      "sha256": "9701bd9058fc8ee170392700d345a08bb0d594cae6e4adf797b471d7ccae3942",
+      "size_in_bytes": 777
+    },
+    {
+      "_path": "include/wasm_cpp/publisher.hpp",
+      "path_type": "hardlink",
+      "sha256": "3e3741c0e3eaf3e198b0f64ee011d483c373ac3e807edfff62edcb06a4a8d9d8",
+      "size_in_bytes": 506
+    },
+    {
+      "_path": "include/wasm_cpp/service_client.hpp",
+      "path_type": "hardlink",
+      "sha256": "8ea267055656ea77050157977f2e78674b6077a6ad6472cfb9ee0359b3fc60db",
+      "size_in_bytes": 700
+    },
+    {
+      "_path": "include/wasm_cpp/service_server.hpp",
+      "path_type": "hardlink",
+      "sha256": "5003cd6e4b35f577225a68b2f98757c1f674e8dfd731e810a6c317684e511b1e",
+      "size_in_bytes": 683
+    },
+    {
+      "_path": "include/wasm_cpp/subscriber.hpp",
+      "path_type": "hardlink",
+      "sha256": "48e8ec76898f4e56826a233cc158c2383ec352ca301975d133c33c8e8f5c275c",
+      "size_in_bytes": 668
+    },
+    {
+      "_path": "include/wasm_cpp/visibility_control.hpp",
+      "path_type": "hardlink",
+      "sha256": "87e8dec3f76b8b6a92e2765836b5b9e51e9d245cad2d71107a6dd0029431ce18",
+      "size_in_bytes": 256
+    },
+    {
+      "_path": "include/wasm_cpp/wait_set.hpp",
+      "path_type": "hardlink",
+      "sha256": "04c15c1a31a5533698a70bc5bfd1886693cce945dcfa01f1ded8906c46e5ca06",
+      "size_in_bytes": 1464
+    },
+    {
+      "_path": "lib/libwasm_cpp.so",
+      "path_type": "hardlink",
+      "sha256": "fb444c6a8238e44a09d26744a8024c748d8dcf655987939edbe464d57a22a793",
+      "size_in_bytes": 162825
+    },
+    {
+      "_path": "share/ament_index/resource_index/package_run_dependencies/wasm_cpp",
+      "path_type": "hardlink",
+      "sha256": "b737e1bfb92cdb59a5502dd06636e769ed72e1eab02510dc28f33be38e11a642",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/ament_index/resource_index/packages/wasm_cpp",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "share/ament_index/resource_index/parent_prefix_path/wasm_cpp",
+      "path_type": "hardlink",
+      "sha256": "3d16cbdab5779bd2002d52feed4c8057835a98582af044639dcd77a092462946",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "share/wasm_cpp/cmake/ament_cmake_export_include_directories-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "e22e035fb2db0ec36323daa42d927fcab52d9008ff82d4066debc6150452be63",
+      "size_in_bytes": 761
+    },
+    {
+      "_path": "share/wasm_cpp/cmake/ament_cmake_export_libraries-extras.cmake",
+      "path_type": "hardlink",
+      "sha256": "97e6576aea815b4fecb22a8b3e143a8199d056355c37addb3d176e6f0c6eadf0",
+      "size_in_bytes": 4969
+    },
+    {
+      "_path": "share/wasm_cpp/cmake/wasm_cppConfig-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "1a056d80bda48cd54cf8af2013b223bfedc1cb17655e3a97b3aeae2c09a37c4c",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "share/wasm_cpp/cmake/wasm_cppConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "c30337dd7a2e54938f1d91fea03a78bcbbf58122a177cfa924eb2f8a687cd6dd",
+      "size_in_bytes": 1322
+    },
+    {
+      "_path": "share/wasm_cpp/environment/ament_prefix_path.dsv",
+      "path_type": "hardlink",
+      "sha256": "c4797d0a0670c70b4d3bcb5b7d47563635c7950595603f3af66f70af546ad57e",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/wasm_cpp/environment/ament_prefix_path.sh",
+      "path_type": "hardlink",
+      "sha256": "6658f14efe913e291c0bf2c74059a9e14fb8abdb5a31628bef61d3b41e206679",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/wasm_cpp/environment/path.dsv",
+      "path_type": "hardlink",
+      "sha256": "3f2cdf6234ea2525c1670c140b6a03700d98a2408e7a232107791fa96c08b58b",
+      "size_in_bytes": 41
+    },
+    {
+      "_path": "share/wasm_cpp/environment/path.sh",
+      "path_type": "hardlink",
+      "sha256": "abe10a0452bc4b93f665fc343a7e6d32fe3f3a2b6beb90d338044a71d2583f18",
+      "size_in_bytes": 185
+    },
+    {
+      "_path": "share/wasm_cpp/local_setup.bash",
+      "path_type": "hardlink",
+      "sha256": "41b30b6c107da94a2478e43953b8cbd0d920f5e8fc1ea847c61a213623d623b0",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/wasm_cpp/local_setup.dsv",
+      "path_type": "hardlink",
+      "sha256": "bb3be8f867ec95befd9fb67618722d8ad889a95e1fddc16201102d8976109fae",
+      "size_in_bytes": 97
+    },
+    {
+      "_path": "share/wasm_cpp/local_setup.sh",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/michael/micromamba/envs/emrobostack-dev/conda-bld/ros-humble-wasm-cpp-0_1697257460464/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+      "sha256": "51b35027eb89fd60eeda10fbe3a1cc06c1cb7b117a2d5aa44072defbf092f77f",
+      "size_in_bytes": 5221
+    },
+    {
+      "_path": "share/wasm_cpp/local_setup.zsh",
+      "path_type": "hardlink",
+      "sha256": "56942873096201f4e7fe5e7b9bd87e56cc42ced33fadb53fbc25766fd9149c81",
+      "size_in_bytes": 1957
+    },
+    {
+      "_path": "share/wasm_cpp/package.dsv",
+      "path_type": "hardlink",
+      "sha256": "d3ad6689d5ce84e2789d6519d383e111e066b0a17229baa51088026cc007eb66",
+      "size_in_bytes": 152
+    },
+    {
+      "_path": "share/wasm_cpp/package.xml",
+      "path_type": "hardlink",
+      "sha256": "1d788e6fae790d64f1f3aac859f923470e5e243cc1271c5387e1bcf1af288667",
+      "size_in_bytes": 718
+    }
+  ],
+  "paths_version": 1
+}
