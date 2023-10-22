@@ -1,1 +1,0 @@
-{"build": "hac94dcc_1", "build_number": 1, "depends": ["emscripten-abi 3.1.27.*"], "name": "spdlog", "subdir": "emscripten-32", "timestamp": 1697022328682, "version": "1.11.0", "size": 187095, "md5": "5cdbe1af9b1349f08d6b8177c2afa42b", "sha256": "086d5343cbc06e2a8ef2d29b695e2045fedef30d1c284db8ab2c0a9582e7eaa6"}
